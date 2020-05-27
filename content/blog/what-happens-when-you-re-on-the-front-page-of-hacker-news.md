@@ -46,7 +46,7 @@ Shocking, lots of US traffic. But also a fair amount of UK, Canada, and other co
 
 ## LinkedIn Profile Views
 
-Her's the number of views to my LinkedIn profile by week. This week isn't over yet but I imagine the spike will taper off a bit after today.
+Her's the number of views to my [LinkedIn profile](https://www.linkedin.com/in/nicklafferty) by week. This week isn't over yet but I imagine the spike will taper off a bit after today.
 
 ![LinkedIn Profile Views By Week](/uploads/Screen_Shot_2020-04-28_at_7.24.16_AM.png "LinkedIn Profile Views By Week")
 
