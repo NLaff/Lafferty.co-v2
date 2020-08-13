@@ -4,6 +4,7 @@ date = 2020-08-13T05:00:00Z
 description = "Learn about the basics of growth marketing. Starting with customer acquisition, user onboarding & activation, all the way through retention and referrals."
 tags = ["marketing"]
 title = "The Basics of Growth Marketing"
+canonicalURL = "https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/"
 
 +++
 This guide first appeared on Mailjet, the [email marketing service](https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/) for fast-moving teams. 

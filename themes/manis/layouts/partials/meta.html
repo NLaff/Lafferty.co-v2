@@ -9,7 +9,11 @@
         {{ if .Data.Singular }}
         <meta name="robots" content="noindex">
         {{ end }}
-        <link rel="canonical" href="{{ .Permalink }}">
+        {{ if .Params.canonicalUrl }}
+<link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else }}
+<link rel="canonical" href="{{ .Permalink }}">
+{{ end }}
         <meta name="p:domain_verify" content="863c74e8c1562d8b2e507f1ecfe3df0b"/>
 
 		{{ with .Site.Params.FaviconImg }}
