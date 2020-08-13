@@ -17,5 +17,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: canonicalurl
+  type: text
+  config:
+    required: false
+  label: canonicalURL
+  description: did this article appear somewhere else? link here
 pages:
 - content/blog/the-basics-of-growth-marketing.md
