@@ -2,7 +2,6 @@
 affiliate = ""
 date = 2020-08-13T05:00:00Z
 description = "Learn about the basics of growth marketing. Starting with customer acquisition, user onboarding & activation, all the way through retention and referrals."
-draft = true
 tags = ["marketing"]
 title = "The Basics of Growth Marketing"
 
