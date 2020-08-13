@@ -4,21 +4,9 @@ auto_deploy: false
 admin_path: static/admin
 webhook_url: 
 sections:
-- type: heading
+- type: directory
+  path: ''
   label: Content
-- type: directory
-  path: content/projects
-  label: Projects
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/about
-  label: About
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/blog
-  label: Blog
   create: all
   match: "**/*"
 upload_dir: static/uploads
