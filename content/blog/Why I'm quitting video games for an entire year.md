@@ -1,8 +1,9 @@
 +++
-date = 2020-10-03T05:00:00Z
+date = 2020-10-01
 description = "Quitting video games was the best decision of my life, but only because I chose to spend that time in other more productive ways. "
 tags = ["games"]
 title = "Why I Quit Video Games and How You Can Too"
+lastmod = 2020-10-03
 
 +++
 Quitting video games was one of the best decisions I've made. I wasn't having fun and wanted to spend my time in more productive ways by creating content for this blog.

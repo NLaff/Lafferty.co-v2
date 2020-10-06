@@ -13,9 +13,15 @@
 	<!-- Ordinary Page -->
 	{{- else if eq .Kind "page" -}}
 	<h1>{{ .Title }}</h1>
-	<h5>
+		<h5>
+		{{ if not (eq .Lastmod .Date) }}
+		Updated: {{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
+		<time datetime="{{.Lastmod}}">{{ .Lastmod.Format $dateformat }}</time>
+		{{ else }}
+		Published:
 		{{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
 		<time datetime="{{.Date}}">{{ .Date.Format $dateformat }}</time>
+		{{end}}
 		<span> | {{ .WordCount }} Words | {{ .ReadingTime }} minutes to read</span>
 		<span class="no-print">
 			{{ with .Params.tags -}}
