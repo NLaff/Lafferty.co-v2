@@ -18,7 +18,6 @@
 		Updated: {{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
 		<time datetime="{{.Lastmod}}">{{ .Lastmod.Format $dateformat }}</time>
 		{{ else }}
-		Published:
 		{{ $dateformat := .Site.Params.DateFmt | default "Jan 02, 2006" }}
 		<time datetime="{{.Date}}">{{ .Date.Format $dateformat }}</time>
 		{{end}}

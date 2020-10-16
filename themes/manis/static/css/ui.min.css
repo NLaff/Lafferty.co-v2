@@ -40,4 +40,13 @@
   border-color: transparent;
   color: rgba(0, 0, 0, 0.7);
 }
-
+body {
+  font-size: 1.6em;
+  line-height: 1.7;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  color: #444;
+}
+html {
+  font-size: 75%;
+}
