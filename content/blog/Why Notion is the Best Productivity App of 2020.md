@@ -27,7 +27,7 @@ Notion is great, but it faces some stiff competition. Here's a shortlist of some
 
 I'll compare Notion to Evernote, Airtable, and Trello and provide some of my thoughts. Let's go!
 
-## Pricing Comparison
+## Monthly Pricing Comparison
 
 | Tier | Notion | Evernote | Trello  | Airtable |
 | ------ | ------ | ------ | ------- | ------- |
