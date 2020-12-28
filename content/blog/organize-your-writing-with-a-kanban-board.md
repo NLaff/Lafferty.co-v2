@@ -55,7 +55,7 @@ Otherwise, follow along below.
 
 You'll get something that looks like this:
 
-![Notion Kanban Board](/uploads/Screen Shot 2020-02-16 at 8.24.59 PM.png)
+![Notion Kanban Board](/uploads/Screen%20Shot%202020-02-16%20at%208.24.59%20PM.png)
 
 I prefer to stick with the order I listed above.
 

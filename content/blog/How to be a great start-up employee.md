@@ -5,6 +5,8 @@ date = "2020-02-08"
 description = "It's easier than you think. "
 draft = false
 tags = ["work"]
+showToc = true
+TocOpen = true
 
 +++
 
@@ -14,7 +16,7 @@ I was initially hired to do only one of those things, but as I was recognized fo
 
 I more than doubled my salary over that time. Come along as I share what worked for me on how to be a great start-up employee.
 
-### Master your tools
+## Master your tools
 
 I was hiring for a junior position that required knowledge of Vlookups and Pivot Tables. The job posting specifically referenced those skills. I consider them basic excel skills and this candidate needed to know them well.
 
@@ -36,7 +38,7 @@ Once you master one tool, move onto the next one. You're learning how to master 
 
 Becoming a master learner is an invaluable skill at any company, especially a start-up.
 
-### Always raise your hand
+## Always raise your hand
 
 Start-ups move quickly. Goals typically aren't set more than 6 months away if you're growing fast because priorities change all the time. You have to learn to be nimble and embrace the idea of wearing multiple hats.
 
@@ -50,7 +52,7 @@ Be the person who gets shit done. There's always room for that kind of person, a
 
 Volunteer for more work. You'll be rewarded for it.
 
-### Take time off
+## Take time off
 
 I know this is a weird one. The key to being a great start-up employee is to take a vacation?
 
@@ -74,7 +76,7 @@ This shows that you're detail-oriented and don't want anything to slip even whil
 
 This will also be helpful if you're ever promoted and need to backfill your role. You'll already have a list of tasks and responsibilities, which you can send to HR to build a good candidate profile.
 
-### Don't suck
+## Don't suck
 
 Easier said than done.
 

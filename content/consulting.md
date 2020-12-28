@@ -3,7 +3,6 @@ title = "Digital Marketing Consulting"
 date = "2020-05-05"
 description = "How I can help grow your business. "
 draft = false
-layout = "consulting"
 
 +++
 Here's a few things I can do to help grow your business. Feel free to [drop me an email](mailto:nick@lafferty.co) to discuss anything in more detail. 

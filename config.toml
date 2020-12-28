@@ -1,13 +1,13 @@
 baseURL = "https://nicklafferty.com"
-title = "Nick Lafferty"
-theme = "manis"
+title = "Nick Lafferty | Digital Marketing Expert"
+theme = "hugo-PaperMod"
 
 # Copyright notice. Note: You can use HTML tag here
 copyright = "&copy; 2020"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
-paginate = 30
+paginate = 5
 
 # Your disqus shortname
 disqusShortname = ""
@@ -23,71 +23,140 @@ pygmentsUseClasses = true
 
 [menu]
 	[[menu.main]]
-		name = "Blog"
+		name = "blog"
 		url = "/blog/"
+		weight = 1
 
     [[menu.main]]
-		name = "Consulting"
-		url = "/consulting"
+		name = "consulting"
+		url = "/consulting/"
+		weight = 2
 
+#	[[menu.main]]
+#		identifier = "interviews"
+#		name = "interviews"
+#		url = "/interviews/"
+#		weight = 10
+
+	[[menu.main]]
+		identifier = "search"
+		name = "search"
+		url = "/search/"
+		weight = 20
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[minify]
+    disableXML = true
+    minifyOutput = true
+
+[params]
+	env = "production"
+	title = "Nick Lafferty"
+	description = "This is a blog about digital marketing and how to hire really smart people to work for you."
+	author = "Nick Lafferty"
+	images = ""
+	ShowReadingTime = true
+	ShowShareButtons = false
+	comments = false
+	defaultTheme = "hugo-PaperMod"
+	disableThemeToggle = false
+	disableSpecial1stPost = false
+
+  [params.assets]
+  favicon = ""
+  favicon16x16 = ""
+  favicon32x32 = ""
+  apple_touch_icon = ""
+  safari_pinned_tab = ""
+
+  [params.label]
+  text = "Home"
+  # icon = ""
+  iconHeight = 35
+
+  [params.profileMode]
+  enabled = false
+  title = "ExampleSite"
+
+    [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+
+    [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
+
+  [params.homeInfoParams]
+  Title = "👋 Hi, I'm Nick Lafferty."
+  Content = "This is a blog about digital marketing and how to hire really smart people to work for you."
+
+   [[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/nicklafferty"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:nick@lafferty.co"
 
 [taxonomies]
 	tag = "tags"
 
-[params]
-	# If false, use minified CSS (ui.min.css)
-	debugCSS = false
-	# Custom CSS
-	customCSS = []
-	
-	# List of sections support disqus comments
-	disqusSections = [ "blog" ]
-	# Site meta description
-	description = "Personal blog about digital marketing, Google ads strategy, and increasing productivity. Global Growth Lead @ Mailgun."
-	# Site's Tagline (Subtitle or Keyword)
-	tagline = "Digital Marketing & Lead Gen Expert"
-	# If true give attribution to this theme
-	themeAttrib = true
-	# URL to license file, can be outside of your domain
-	licenseURL = "/about/license"
-
-	# Configure which section for Latest Posts
-	postSection = "blog"
-	# Configure which section for Latest Works
-	workSection = ""
-
-	# 404 Configuration
-	head404 = "Sorry, I can't find what you want."
-	sub404 = "Back to <a href='/'>Home</a>."
-
-	# Color of your website's accent
-	colorTheme = "#6441A4"
-	# Maximum number of item in Latest Posts or Works
-	latestCount = 8
-	# Path to site's favicon image
-	faviconImg = ""
-	# Date format in item list
-	dateFmt = "Jan 02, 2006"
-
-	# Code Highlighting (HighlightJS)
-	highlightJs = false
-	highlightJsLanguages = [ "go" ]
-	highlightJsStyle = "ocean"
-
-	# Social Links
-	email = "nick@lafferty.co"
-	github = "https://github.com/NLaff"
-	linkedin = "https://linkedin.com/in/nicklafferty"
-    dev = "https://dev.to/nicklafferty"
-    medium = "https://medium.com/@NickLafferty"
-
-	enableRobotsTXT = true
-	canonifyURLS = true
-[markup]
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 3
+#[params] #manis theme
+	## If false, use minified CSS (ui.min.css)
+	#debugCSS = false
+	## Custom CSS
+	#customCSS = []
+#	
+	## List of sections support disqus comments
+	#disqusSections = [ "blog" ]
+	## Site meta description
+	description = "Personal blog about digital marketing, Google ads strategy, and increasing productivity. #Global Growth Lead @ Mailgun."
+	## Site's Tagline (Subtitle or Keyword)
+	#tagline = "Digital Marketing & Lead Gen Expert"
+	## If true give attribution to this theme
+	#themeAttrib = true
+	## URL to license file, can be outside of your domain
+	#licenseURL = "/about/license"
+#
+	## Configure which section for Latest Posts
+	#postSection = "blog"
+	## Configure which section for Latest Works
+	#workSection = ""
+#
+	## 404 Configuration
+	#head404 = "Sorry, I can't find what you want."
+	#sub404 = "Back to <a href='/'>Home</a>."
+#
+	## Color of your website's accent
+	#colorTheme = "#6441A4"
+	## Maximum number of item in Latest Posts or Works
+	#latestCount = 8
+	## Path to site's favicon image
+	#faviconImg = ""
+	## Date format in item list
+	#dateFmt = "Jan 02, 2006"
+#
+	## Code Highlighting (HighlightJS)
+	#highlightJs = false
+	#highlightJsLanguages = [ "go" ]
+	#highlightJsStyle = "ocean"
+#
+	## Social Links
+	#email = "nick@lafferty.co"
+	#github = "https://github.com/NLaff"
+	#linkedin = "https://linkedin.com/in/nicklafferty"
+    #dev = "https://dev.to/nicklafferty"
+    #medium = "https://medium.com/@NickLafferty"
+#
+	#enableRobotsTXT = true
+	#canonifyURLS = true
+#[markup]
+  #[markup.tableOfContents]
+    #endLevel = 3
+    #ordered = false
+    #startLevel = 3
 
 
 # Language Configuration

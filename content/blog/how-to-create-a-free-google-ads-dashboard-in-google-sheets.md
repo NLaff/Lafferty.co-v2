@@ -3,8 +3,10 @@ affiliate = "true"
 date = 2020-03-02T06:00:00Z
 description = "Learn how to create a Google Ads dashboard using Supermetrics and Google Sheets. Follow along or grab my free template. "
 draft = false
-tags = ["supermetrics"]
+tags = ["marketing"]
 title = "How to Create a Free Google Ads Dashboard in Google Sheets"
+showToc = true
+TocOpen = true
 
 +++
 I've been doing some form of digital marketing for over 6 years. I've done everything from affiliate management, lifecycle email campaigns, to PPC ads in Google, Facebook, LinkedIn, and more.
@@ -34,16 +36,6 @@ Tools needed:
 They have a free plan that connects to just Google Analytics, but to harness the full power you'll need a [paid account](https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=2679&tid1=marketing&tid2=ads-dashboard). I may be able to help with a coupon code, so just [send me an email](mailto:nick@lafferty.co).
 
 Ok, let's get started!
-
-### Table of Contents
-
-1. [What is Supermetrics](#what-is-supermetrics)
-2. [How to build a Google Ads Dashboard](#building-a-google-ads-dashboard)
-3. [Instaling Supermetrics Addon](#1-install-the-supermetrics-google-sheets-addon)
-4. [Connect Your Google Ads Account](#2-connect-your-google-ads-account)
-4. [Pull Your Data from Google Ads](#3-pull-your-data)
-5. [Setup Automatic Refresh](#4-schedule-automatic-refresh)
-6. [Build Your Charts](#5-build-your-charts)
 
 ## What Is Supermetrics?
 
@@ -141,7 +133,7 @@ I have the action start processing a few hours before I'll ever need it, so here
 
 Make sure to click **Store Trigger** at the bottom right, otherwise, it won't be saved!
 
-![Supermetrics for Google Sheets Scheduled Refresh](/uploads/Screen Shot 2020-03-02 at 8.30.54 PM.png "Supermetrics for Google Sheets")
+![Supermetrics for Google Sheets Scheduled Refresh](/uploads/Screen%20Shot%202020-03-02%20at%208.30.54%20PM.png "Supermetrics for Google Sheets")
 
 ### 5. Build Your Charts
 
@@ -161,7 +153,7 @@ Highlight the full columns for:
 
 Once your columns are highlighted, click **Insert → Chart.** You'll get something that looks like this (I've fudged my numbers a bit for privacy).
 
-![Create Google Ads Dashboard](/uploads/Screen Shot 2020-03-02 at 8.37.38 PM.png "Create Google Ads Dashboard")
+![Create Google Ads Dashboard](/uploads/Screen%20Shot%202020-03-02%20at%208.37.38%20PM.png "Create Google Ads Dashboard")
 
 A decent start, but not readable. Double click your chart, then in the Chart Editor hit Setup → Chart type → Combo Chart (bar and line graph).
 
@@ -171,7 +163,7 @@ It may help to format the numbers in your data too, so you get nice percents.
 
 You should have something like this.
 
-![Google Sheets Dashboard Template](/uploads/Screen Shot 2020-03-02 at 8.41.17 PM.png "Google Sheets Dashboard Template")
+![Google Sheets Dashboard Template](/uploads/Screen%20Shot%202020-03-02%20at%208.41.17%20PM.png "Google Sheets Dashboard Template")
 
 Great! This helps me keep an eye on my brand campaigns to stay ahead of any competitors trying to bid on my brand. Usually, if I see my CPCs increase it means someone is conquesting my brand, and I need to look into raising my bids to out price them (they're likely paying 3-4x my CPCs) or file a trademark request if they're using my brand in their ads.
 
@@ -185,7 +177,7 @@ Highlight the below columns:
 
 Create a chart in the same way, and you'll get a familiar-looking result. Again, my numbers are fudged.
 
-![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.50.40 PM.png "Supermetrics Google Sheets Chart")
+![Supermetrics Google Sheets Chart](/uploads/Screen%20Shot%202020-03-02%20at%208.50.40%20PM.png "Supermetrics Google Sheets Chart")
 
 I made the same changes as the last one:
 
@@ -193,7 +185,7 @@ I made the same changes as the last one:
 * Formatting the numbers and displaying data labels
 * Moving Cost per Conversion to the right axis, and a line graph
 
-  ![Supermetrics Google Sheets Chart](/uploads/Screen Shot 2020-03-02 at 8.51.40 PM.png "Supermetrics Google Sheets Chart")
+  ![Supermetrics Google Sheets Chart](/uploads/Screen%20Shot%202020-03-02%20at%208.51.40%20PM.png "Supermetrics Google Sheets Chart")
   
 My fake company is crushing it! More conversions at a lower CPA.
 

@@ -4,6 +4,8 @@ date = 2020-02-25T06:00:00Z
 description = "If something is important to you then you'll find the time to get it done. "
 tags = ["writing"]
 title = "If You Can't Find Time To Write You're Not Trying Hard Enough"
+showToc = true
+TocOpen = true
 
 +++
 I went on a 5-day business trip at the start of February. Most days I started working at 8 am and didn't stop until 8 pm that night. My days were filled with meetings, brainstorming sessions, and team-building events.

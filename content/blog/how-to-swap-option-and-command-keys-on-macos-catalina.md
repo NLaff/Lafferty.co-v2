@@ -20,11 +20,11 @@ Follow along to see how to do this in 10 seconds
 
 1. Go to System Preferences - Keyboard
 
-   ![Mac keyboard settings](/uploads/Screen Shot 2020-02-17 at 8.30.50 PM.png)
+   ![Mac keyboard settings](/uploads/Screen%20Shot%202020-02-17%20at%208.30.50%20PM.png)
 2. Click Modifier Keys at the bottom right
 3. Select your external keyboard from the dropdown
 
-   ![Swap Command and Option Keys macOS Catalina](/uploads/Screen Shot 2020-02-17 at 8.25.32 PM.png)
+   ![Swap Command and Option Keys macOS Catalina](/uploads/Screen%20Shot%202020-02-17%20at%208.25.32%20PM.png)
 4. Swap the keys you need to swap.I changed Command to Option, and Option to Command
 
 ## What if you want to stop non-modifier keys?
@@ -37,7 +37,7 @@ But here's how you can do the exact same thing in [Karabiner Elements](https://p
 2. Navigate to Simple Modifications
 3. Setup the key mappings you want.
 
-   ![Karabiner Elements Key Mapping](/uploads/Screen Shot 2020-02-17 at 8.36.07 PM.png)
+   ![Karabiner Elements Key Mapping](/uploads/Screen%20Shot%202020-02-17%20at%208.36.07%20PM.png)
 4. Here, I've swapped left command and option. I've also set my page up and down keys to change the volume, and delete and insert keys to change the brightness.
 
 ### That's it

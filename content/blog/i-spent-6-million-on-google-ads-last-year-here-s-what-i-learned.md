@@ -5,6 +5,8 @@ description = "I spent a lot of money on Google ads last year across Search, Dis
 tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year"
 featured = true
+showToc = true
+TocOpen = true
 
 +++
 I had an unlimited budget. I could spend as much money as I wanted on whatever ads I wanted.

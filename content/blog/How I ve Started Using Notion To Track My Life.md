@@ -3,6 +3,8 @@ date = 2019-12-16T00:00:00Z
 description = "Notion is a super powerful productivity tool. It can track your habits, workouts, journal entries, and more. "
 tags = ["notion"]
 title = "How to Track Your Habits with Notion"
+showToc = true
+TocOpen = true
 
 +++
 I first found [Notion](http://notion.so) by searching Product Hunt by the [most upvoted productivity products](https://www.producthunt.com/topics/productivity?order=most-upvoted). I was immediately impressed by how many boxes it checked for me as a productivity tool. It's an incredibly flexible piece of software that can be used in so many different ways. Here's a few things I use Notion to track.
@@ -23,7 +25,7 @@ In 2020 I want to continue some of the good habits I've developed, like writing 
 
 Notion makes this super easy because I can reference all of my workspaces within the habit tracker itself. My "Write in your journal" habit is more than just a checkbox, it's a link to the journal entry I wrote that day. Same for my workout habit, it's a link to the specific workouts and muscle groups I did that day.
 
-![Notion Habit Tracker](/img/Notion Habit.png)
+![Notion Habit Tracker](/img/Notion%20Habit.png)
 
 The last sections are the habits I want to cut down on. For me it's eating out, with a separate column for the dollar amount, and how much time I spent on my phone that day.
 
@@ -35,7 +37,7 @@ I've already noticed a big dip in phone usage since I uninstalled the Reddit app
 
 ## Journaling
 
-![Notion Journal Template](/img/Notion Journal.png)
+![Notion Journal Template](/img/Notion%20Journal.png)
 
 I wanted to start writing more this year so I decided the best way to do that is by journaling every day. I chose to do it on a computer because I'm a much faster typer, my handwriting is terrible, and I wanted it easily categorized and searchable.
 
@@ -45,7 +47,7 @@ Weekly entries are list-based and serve to summarize my weeks. My prompts for th
 
 ## Workout Calendar
 
-![Notion Workout Tracker](/img/Notion Workout.png)
+![Notion Workout Tracker](/img/Notion%20Workout.png)
 
 After I started working from home full-time I decided to pick back up my workouts. It's a great reason to get out of the house for an hour and I feel great afterward. After going for a month or two consistently I would forget what muscle groups I did the previous few workouts. I built this simple calendar to show what muscle groups I hit on what days.
 
@@ -61,7 +63,7 @@ My setup is nothing fancy at all, but I surprisingly bounce between multiple com
 
 I don't have a hard goal of writing X blog posts each day or week. I just want to write. So my repository is filled with half-written articles, ideas for future articles, and (a few) completed pieces.
 
-![Notion Writing Tracker](/img/Notion Writing.png)
+![Notion Writing Tracker](/img/Notion%20Writing.png)
 
 ## Bullet Journal
 
@@ -86,6 +88,6 @@ As you create new logs they'll automatically populate in your index. Easy!
 
 I also recommend embedding a calendar so you can reference your future log alongside your daily and monthly logs.
 
-### Wrapping Up
+## Wrapping Up
 
 Notion is great. I've been super impressed with how flexible it is. This blog post was written with Notion. I've probably spent over an hour in the app today, between all the writing and tracking I've done. I love its role in helping me achieve my goals and I'm excited to watch how it continues to evolve.

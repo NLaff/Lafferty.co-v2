@@ -3,6 +3,7 @@ date = 2020-02-19T06:00:00Z
 description = "Know where you want to live, make a checklist, and be patient. Your perfect house is out there. "
 tags = ["homeownership"]
 title = "A Millennial's Guide To Buying Your First House"
+draft = false
 
 +++
 Millennials aren't buying a lot of houses. At least they're not buying as many as our parents did. There's a lot of reasons for that and I won't get into them here.

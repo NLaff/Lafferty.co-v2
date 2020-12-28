@@ -5,6 +5,8 @@ tags = ["games"]
 title = "Why I Quit Video Games and How You Can Too"
 lastmod = 2020-10-03
 featured = true
+showToc = true
+TocOpen = true
 
 +++
 Quitting video games was one of the best decisions I've made. I wasn't having fun and wanted to spend my time in more productive ways by creating content for this blog.

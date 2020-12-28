@@ -2,9 +2,11 @@
 
 title = "How to kick ass at your first job after college"
 date = "2019-12-19"
-description = "Your first job after college can set the trajectory for your entire career. You'll never be more inexperienced so you'll be primed for learning. You'll have developed very few, if any, bad work habits. You can be a sponge, learning from all the experienced people around you. Here's a short list of what you can do to kick ass."
+description = "Your first job after college can set the trajectory for your entire career. Here's how you can kick ass."
 draft = false
 tags = ["work"]
+showToc = true
+TocOpen = true
 
 +++
 
@@ -14,7 +16,7 @@ You'll learn what it's like to deal with shitty co-workers. How someone doing th
 
 Here's a short list of what you can do to kick ass.
 
-### Get shit done
+## Get shit done
 
 There is a time when you'll need to work overtime to get projects done. But that time is not every day. Working crazy hours is a recipe for burnout. You have your whole career ahead of you. Plenty of time to burn the midnight oil.
 
@@ -24,7 +26,7 @@ Be efficient with your time. Don't take hour plus lunches every day. Don't waste
 
 Top performers aren't made around the coffee machine. They're made by doing the work. So do it. 
 
-### Be fast, efficient, and accurate
+## Be fast, efficient, and accurate
 
 Learn to complete your work quickly and accurately. Don't rush through things only to have them sent back to you. But the faster you can build that report for your boss every week, the sooner you can move onto the next project. 
 
@@ -34,7 +36,7 @@ Ask for more. Your boss will appreciate you taking things off their to-do list. 
 
 This is how top performers are made.
 
-### Make Mistakes
+## Make Mistakes
 
 You will learn faster by making mistakes than you will by doing everything perfectly. Don't be a perfectionist. You will learn so much more after a terrible presentation than after a successful one. 
 
@@ -44,7 +46,7 @@ I've lost companies tens of thousands of dollars, multiple times. I've fucked up
 
 You will make mistakes. Learn from them. They'll make you better.
 
-### Become an expert
+## Become an expert
 
 Don't say you know how to do vlookups when you really don't. I've interviewed those people and asked them to prove it. Most of them fail.
 
@@ -56,6 +58,6 @@ Start with one tool, and become the go-to person for any questions about it. The
 
 If your company implements a new tool, be the first to master it. Learn all you can about it, get every certificate and training you can. You'll be indispensable. 
 
----
+## Wrapping Up
 
 These are the tips I've picked up in my early career. What has been the most helpful tip you've picked up in your career? Drop a comment or send a message.

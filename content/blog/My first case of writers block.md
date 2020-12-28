@@ -5,7 +5,6 @@ date = "2020-02-09"
 description = "I want to write, but I don't know what to write about."
 draft = false
 tags = ["writing"]
-
 +++
 
 I'm 9 days into my month-long journey of [publishing new content every day](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/), and I'm fresh out of ideas.

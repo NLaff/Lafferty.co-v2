@@ -5,7 +5,8 @@ date = "2020-02-03"
 description = "Write what makes you happy."
 draft = false
 tags = ["writing"]
-
+showToc = true
+TocOpen = true
 +++
 
 I'm new to Medium. I've read and paid for a membership off and on over the last year, but I really started taking it seriously as a writer in January.

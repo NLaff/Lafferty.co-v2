@@ -5,6 +5,8 @@ date = "2020-02-12"
 description = "The mac apps I can't live without. Boost your productivity and prevent embarrassing moments."
 draft = false
 tags = ["apps"]
+showToc = true
+TocOpen = true
 
 +++
 

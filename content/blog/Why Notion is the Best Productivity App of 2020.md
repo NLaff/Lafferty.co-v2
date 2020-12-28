@@ -5,6 +5,8 @@ date = "2020-02-04"
 description = "It rules and every other app drools. "
 draft = false
 tags = ["notion"]
+showToc = true
+TocOpen = true
 
 +++
 

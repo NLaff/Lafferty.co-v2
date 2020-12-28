@@ -4,6 +4,8 @@ date = 2020-02-23T06:00:00Z
 description = "With 73% of new grads getting a job in a field outside their college degree, what role does education play in your adult career?"
 tags = ["work"]
 title = "Your College Degree Doesn't Matter"
+showToc = true
+TocOpen = true
 
 +++
 [A 2013 study by two economists](https://www.washingtonpost.com/news/wonk/wp/2013/05/20/only-27-percent-of-college-grads-have-a-job-related-to-their-major/) at The Federal Reserve Bank of New York found that only 27% of new graduates found a job closely related to their degree.

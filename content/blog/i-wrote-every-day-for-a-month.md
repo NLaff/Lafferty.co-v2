@@ -4,6 +4,8 @@ date = 2020-02-29T06:00:00Z
 description = "Today is the 29th article I published in February. One every single day. What did I enjoy most? What did I learn? Am I going to keep it up next month? I answer some of those questions. "
 tags = ["writing"]
 title = "I Wrote Every Day For A Month"
+showToc = true
+TocOpen = true
 
 +++
 This is it. The last day of my 29-day writing challenge to [publish new content every day this month](https://www.bounteous.com/files/uploads/Regular-Expressions-Google-Analytics_2019.pdf). I almost can't believe it's over.

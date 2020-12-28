@@ -5,6 +5,8 @@ date = "2020-01-28"
 description = "Eating healthy and working out can make such a difference. "
 draft = false
 tags = ["work"]
+showToc = true
+TocOpen = true
 
 +++
 
@@ -12,7 +14,7 @@ Working remote is the dream for most people. It enables you take better care of 
 
 I've worked remotely for the past year and it's been mostly great. But it's forced me to take a hard look at my habits. 
 
-### Cook healthy meals
+## Cook healthy meals
 
 Many of my friends say they don't have time to cook meals at home. When you laeve for work at 7am and don't get back home until 6 or 7pm that night, you're exhausted and the last thing you want to do is get in the kitchen to start cooking. 
 
@@ -26,7 +28,7 @@ I love trying to imitate my favorite restaurants. One of my favorite new restaur
 
 Do you like Indian food? This [tikka masala recipe](https://www.allrecipes.com/recipe/228293/curry-stand-chicken-tikka-masala-sauce/) is divine. 
 
-### Get daily exercise
+## Get daily exercise
 
 It's so easy to sit in your office all day and crank out work. I'm a productivity machine when left uninterrupted. Give me a pot of coffee, some snacks, and good music in the headphones and I can go for hours.
 
@@ -40,7 +42,7 @@ Most weeks I go to the gym 4 or 5 times. Sometimes work gets in the way and my d
 
 Youtube is a great resource if you don't have much experience in the gym. One of my favorite channels that cuts the bullshit is [Athlean-X](https://www.youtube.com/watch?v=R6gZoAzAhCg).
 
-### Interact with other humans
+## Interact with other humans
 
 This is a side benefit to visiting the gym every day. I get out of the house and get to be around other humans.
 
@@ -52,7 +54,7 @@ Working remote can be incredibly isolating. You can go days without seeing anoth
 
 Driving can be enjoyable when you're not stuck in rush hour traffic. Hop in your car and go somewhere.  Walking around the mall during a weekday afternoon can be so peaceful. Go to the park. You've been at home all day, so when work is over get out of the house. 
 
-### Have a dedicated spot for work
+## Have a dedicated spot for work
 
 When I first started working remotely I would work all over the house. I'd work standing up at my kitchen counter then transition to the couch when my legs got tired. 
 
@@ -70,7 +72,7 @@ I do have slack on my phone incase my team needs to get a hold of me. But I snoo
 
 They also have my phone number for emergencies. Thankfully those rarely come up. 
 
-### Those are my healthy habits
+## Those are my healthy habits
 
 If I had to compare my mental and physical health before and after I started working from home, I'd say that I'm much healthier now that I've taken control of my day.
 

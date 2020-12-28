@@ -6,26 +6,21 @@ tags = ["marketing"]
 title = "The Basics of Growth Marketing"
 canonicalURL = "https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/"
 featured = true
+showtoc = true
+tocopen = true
 
 +++
 This guide first appeared on Mailjet, the [email marketing service](https://www.mailjet.com/blog/news/the-basics-of-growth-marketing/) for fast-moving teams. 
 
 ## What is growth marketing?
-
   
 Growth marketing, also known as growth hacking, has been on the rise since 2010, coinciding with the growth of tech start-ups after 2008’s global recession. You can see this fast rise in recognition in the graph below, and the term’s speed into the mainstream fits its definition. **Growth marketing is all about rapid and iterative experimentation with the ultimate goal of growing sales, revenue, and profit for a business**. It moves beyond the top of funnel metrics like awareness, website visits, and brand sentiment—the main focus areas of traditional marketing—and instead **seeks to understand the data behind what drives the bottom line of the business**.
 
-![](https://lh4.googleusercontent.com/unADd8qOi4KeojnnTmn-G38zDv4IP3fNp-x561o10r-sJ9Ior3xoPEeZ_9AmYS-swMF21AJLzwRtEaJ6R4lG1CtMBA1Fi78iGJd99MXeFsKrz17wKEwBRA-Tmv96b0b9eTbFdq1W =370x284)
-
 **Traditional marketing often focuses on short-term wins** (like having a July 4th sale), running radio advertisements with the hopes of increasing website traffic, or putting a billboard on the side of the road. The image below illustrates the concept of traditional marketing at its finest. 🎉
-
-![](https://lh6.googleusercontent.com/yTMV8z_LFw27RZSid1M49gD8kTc-deWW6MdgsBgee4-MR4YHKsFOLZCH5wylxOJQRUQtjJp9pg7hQuBN3Op_CsiKogjsDFoda8-GpcJsuyoewTGO_5gixnRYZsirz7JRCr-zh4e6 =302x302)
 
 **Growth marketing applies a data-driven mindset** to those same concepts. Now that you know what it means, let’s unpack what growth marketing is in practice by going step-by-step through each stage of the growth funnel: customer acquisition, onboarding & activation, retention, referral, and ultimately revenue growth.
 
-##   
-What does growth marketing actually look like?
-
+## What does growth marketing actually look like?
   
 **There is no one size fits all definition that applies to growth marketing**. The same growth strategy techniques that helped Uber won't work for every business. But one constant among growth marketers is the drive to try new things.
 
@@ -82,8 +77,6 @@ Then John can send his first cat facts email! **After his first newsletter is se
 Remember Jim? After lowering his company’s CAC to $7 he’s become the subject of every watercooler conversation. But there’s a problem.
 
 The new users he acquired are only subscribing for a month and then they’re cancelling their account. Before Jim’s test, users would stick around for at least 3 months using the product. What happened? Churn.  
-  
-![](https://lh4.googleusercontent.com/i-5XGwaSNYXLtOxUdq1hls8hfpqQCF-CGYJC5bTxs5ewbd05nf3iYEFPdlxuE8cLT8rxobIADwDR1vFc9leSIWFwpsPfhYkHhV4P1VVx7li28K2YDVSsc0AmrMyzupfh67hv3VkS =480x366)
 
 **There are many reasons users churn.** Sometimes the product doesn’t live up to their expectations, or they found a better way to solve their initial problem, or they had a poor experience with your support team, or they just didn’t like your product. **Whatever the reason, growth marketers need to understand the why behind user churn**.
 
@@ -111,5 +104,4 @@ Referrals don’t have to cost you anything. In fact, **if you have a really gre
 
 Growth marketers serve an important role in today’s fast growing companies by optimizing every step of the user funnel through growth marketing strategy. Starting with customer acquisition, user onboarding and activation, retention, and referrals, they take a broad approach to marketing. **Growth marketers will relentlessly test and tweak new ideas until something sticks, then they’ll rinse and repeat**.
 
-  
 So, now that you know all about growth marketing, you can go out there and use it to your advantage. Lights, camera, action! 🎥

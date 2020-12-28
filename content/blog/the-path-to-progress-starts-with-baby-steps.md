@@ -5,6 +5,7 @@ description = "I've started and stopped more habits than I can count. But when I
 tags = ["life"]
 title = "The Path to Progress Starts With Baby Steps "
 
+
 +++
 I was lying in bed, minutes away from sleep, when a strange thought popped into my head.
 

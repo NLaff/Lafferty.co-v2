@@ -4,6 +4,9 @@ date = 2020-03-15T05:00:00Z
 description = "What I've learned after working remotely full-time for the last 12 months."
 tags = ["work"]
 title = "3 Harsh Realities About Working Remotely"
+showToc = true
+TocOpen = true
+draft = false
 
 +++
 I've been working remotely full-time for the last 12 months out of my house in Austin, Texas.

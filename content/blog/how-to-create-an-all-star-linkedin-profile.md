@@ -40,7 +40,7 @@ Here's what you should do.
 * Look for common words. Write them down, we'll come back to them
 * Some listings will show your current skills and how you match up to what the job poster is looking for. It looks like this, and they're a gold mine
 
-![](/uploads/Screen Shot 2020-03-14 at 10.37.36 PM.png)
+![](/uploads/Screen%20Shot%202020-03-14%20at%2010.37.36%20PM.png)
 
 Now, take that list of keywords you made and do two things with it.
 
@@ -85,7 +85,7 @@ Your posts on LinkedIn should do one of three things:
 
 Here's a great example from the CMO of [Gong.io](http://Gong.io), a sales intelligence tool. He posted something interesting that is relevant to today's Coronavirus pandemic. Bonus: it was about their product
 
-![](/uploads/Screen Shot 2020-03-17 at 7.59.52 PM.png)
+![](/uploads/Screen%20Shot%202020-03-17%20at%207.59.52%20PM.png)
 
 I've found that posts are best paired with an image, but not everything you post should have one.
 

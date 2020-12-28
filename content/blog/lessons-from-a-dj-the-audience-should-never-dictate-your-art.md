@@ -4,6 +4,7 @@ date = 2020-02-24T06:00:00Z
 description = ""
 tags = ["life"]
 title = "15 Years as a DJ Taught Me That The Audience Should Never Dictate Your Art"
+draft = false
 
 +++
 I started playing music on the internet in 2006. I was 16 at the time and had started an internet radio station that would eventually get me nominated as a Texas Youth Entrepreneur Of The Year.

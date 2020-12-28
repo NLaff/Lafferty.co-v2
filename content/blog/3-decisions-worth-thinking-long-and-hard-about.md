@@ -4,6 +4,7 @@ date = 2020-02-28T06:00:00Z
 description = "Some of my best ideas were born out of desperation, but not everything should wait until the last minute. I talk about 3 things to spend more time considering. "
 tags = ["life"]
 title = "3 Decisions Worth Thinking Long and Hard About"
+draft = false
 
 +++
 It was 9:30 pm and I was watching a blank cursor flicked off and on in my writing application.
@@ -66,7 +67,7 @@ To see what keywords to optimize for, search LinkedIn for your job. See what pos
 
 LinkedIn will scan your profile and show you how you match against those jobs too.
 
-![](/uploads/Screen Shot 2020-02-29 at 7.28.09 PM.png)
+![](/uploads/Screen%20Shot%202020-02-29%20at%207.28.09%20PM.png)
 
 ## Life is what happens when you're making other plans
 

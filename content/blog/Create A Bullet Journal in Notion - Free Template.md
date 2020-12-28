@@ -5,6 +5,8 @@ date = "2020-02-10"
 description = "Use my free template to create a Bullet Journal in Notion. Add your own customizations and personal flair."
 draft = false
 tags = ["notion"]
+showToc = true
+TocOpen = true
 
 +++
 

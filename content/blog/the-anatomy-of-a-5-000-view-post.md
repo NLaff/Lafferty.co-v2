@@ -4,6 +4,8 @@ date = 2020-02-27T06:00:00Z
 description = "One of my posts was wildly successful compared to others. Here's how that happened, where the traffic came from, and what I'm doing next. "
 tags = ["marketing"]
 title = "How I Got 5,000 Views On One Of My Posts"
+showToc = true
+TocOpen = true
 
 +++
 I wrote a post about how [I Spent $6 Million on Google Ads Last Year](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/). The title was catchy, the image was bright and colorful, the content was useful, it had clear takeaways, and I was positioned like an expert because I spent a bunch of someone else's money.
@@ -36,13 +38,13 @@ I've never had this happen to me though so every aspect is interesting. I deep d
 
 * **As of 4pm: 4.8k views**
 
-  ![Getting 5,000 views on a Medium post](/uploads/Screen Shot 2020-02-27 at 3.51.30 PM.png "Getting 5,000 views on a Medium post")
+  ![Getting 5,000 views on a Medium post](/uploads/Screen%20Shot%202020-02-27%20at%203.51.30%20PM.png "Getting 5,000 views on a Medium post")
 
 ## Medium stats
 
 Here's a screenshot from my Medium account stats page over the last 30 days. Notice the tiny little bar right before the big spike? That was the first day my post was published.
 
-![The effect of my Google Ads post on total views](/uploads/Screen Shot 2020-02-27 at 3.51.39 PM.png "Medium Account Screenshot")
+![The effect of my Google Ads post on total views](/uploads/Screen%20Shot%202020-02-27%20at%203.51.39%20PM.png "Medium Account Screenshot")
 
 All those other little bars? I've been writing a lot lately. Literally a [new post every single day in February](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/) because I'm kind of a nut job.
 
@@ -56,7 +58,7 @@ By far the most shocking part is the random emails I started getting. My email i
 
 I won't show them all here because I don't want to throw anyone under the bus, but I will show the lowest effort one: 
 
-![](/uploads/Screen Shot 2020-02-27 at 4.22.37 PM.png "I'm good bro, but put more effort into your next email")
+![](/uploads/Screen%20Shot%202020-02-27%20at%204.22.37%20PM.png "I'm good bro, but put more effort into your next email")
 
 Come on, bro, try a little harder next time. 
 
@@ -66,7 +68,7 @@ I've also received outreach on LinkedIn from people asking to feature my blog po
 
 Here's the thing, most of those views came from outside of Medium. Only 16% came from within Medium!
 
-![Lots of external views](/uploads/Screen Shot 2020-02-27 at 4.13.23 PM.png "Views by traffic source")
+![Lots of external views](/uploads/Screen%20Shot%202020-02-27%20at%204.13.23%20PM.png "Views by traffic source")
 
 2\.4k of my views are from an Android device not using the Medium app. I wonder why the distribution is skewed so much to Android and not iPhones? That seems wrong to me. Honestly, a lot of these external referrals are not helpful. What the hell is [googleapis.com/whatever](http://googleapis.com/whatever) ?
 
@@ -80,11 +82,11 @@ Emo is making a comeback, by the way.
 
 Medium is only half the story because this traffic starts with LinkedIn. Here's how my profile views have moved.
 
-![Linkedin profile views](/uploads/Screen Shot 2020-02-27 at 3.48.58 PM.png "Linkedin profile views")
+![Linkedin profile views](/uploads/Screen%20Shot%202020-02-27%20at%203.48.58%20PM.png "Linkedin profile views")
 
 \+444% is pretty solid, but 46 profile views today is not a lot compared to the number of views my post has by now.
 
-![1,557 views on my Google ads post](/uploads/Screen Shot 2020-02-27 at 3.51.02 PM.png "Linkedin Post Views")
+![1,557 views on my Google ads post](/uploads/Screen%20Shot%202020-02-27%20at%203.51.02%20PM.png "Linkedin Post Views")
 
 1,557 views as of 4 pm on the 27th. Also interesting is the view to interaction number, which comes out to 3% (44/1557). I don't really consider this to be a lot of interactions, but it sure generated some good traffic.
 

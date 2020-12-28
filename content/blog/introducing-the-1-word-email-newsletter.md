@@ -3,6 +3,7 @@ date = 2020-02-17T06:00:00Z
 description = "A newsletter for complete freaks. One word, one email, once a week. Delivered on Fridays. I pick the word and you learn about it."
 tags = ["projects"]
 title = "Introducing The 1 Word Email Newsletter"
+draft = false
 
 +++
 I created a newsletter.

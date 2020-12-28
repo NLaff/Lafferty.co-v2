@@ -6,6 +6,8 @@ description = "How to Vlookup an entire row in Google Sheets"
 draft = false
 tags = ["sheets"]
 featured = true
+showToc = true
+TocOpen = true
 
 +++
 
