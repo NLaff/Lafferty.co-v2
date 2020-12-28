@@ -112,7 +112,7 @@ home = [ "HTML", "RSS", "JSON" ]
 	## List of sections support disqus comments
 	#disqusSections = [ "blog" ]
 	## Site meta description
-	description = "Personal blog about digital marketing, Google ads strategy, and increasing productivity. #Global Growth Lead @ Mailgun."
+	# description = "Personal blog about digital marketing, Google ads strategy, and increasing productivity. # Global Growth Lead @ Mailgun."
 	## Site's Tagline (Subtitle or Keyword)
 	#tagline = "Digital Marketing & Lead Gen Expert"
 	## If true give attribution to this theme
