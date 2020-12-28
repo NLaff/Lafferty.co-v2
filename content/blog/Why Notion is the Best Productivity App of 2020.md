@@ -7,7 +7,7 @@ draft = false
 tags = ["notion"]
 showToc = true
 TocOpen = true
-lastmod = 12-28-2020
+lastmod = 2020-12-28
 
 +++
 
