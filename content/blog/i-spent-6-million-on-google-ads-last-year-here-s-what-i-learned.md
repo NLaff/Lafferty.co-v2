@@ -124,4 +124,4 @@ Succeeding at digital marketing is all about iteration. No strategy works foreve
 
 Creative is king. Embrace machine learning and automated bid strategies, especially Google's Target CPA.
 
-If your current campaigns aren't cutting it then [drop me a line](mailto: nick@lafferty.co).
+If your current campaigns aren't cutting it then [drop me a line](mailto:nick@lafferty.co).
