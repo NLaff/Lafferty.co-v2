@@ -90,7 +90,7 @@ It also includes up to 5 total guest collaborators in your space. When you're re
 Compare that to Monday's monthly price of $29 and Notion is a bargain.
 
 {{< button "https://mondaycom.grsm.io/nicklafferty2215" "Try Monday" >}}
-{{< button "https://Notion.so" "Try Notion" >}}
+{{< button "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Evernote
 
@@ -140,6 +140,9 @@ I've used Evernote in the past and found it cumbersome. Evernote also limits you
 
 Notion lets you add and sync as many devices as you want. They even incentivize you to try their other apps, giving you free credit by downloading a mobile app and sharing content from within the app. 
 
+{{< button "https://www.evernote.com" "Try Evernote" >}}
+{{< button "https://www.notion.so" "Try Notion" >}}
+
 ## Notion vs Trello
 
 Whereas Evernote is note-taking software, Trello is task management software. Trello is terrible for taking notes, but it's great for organizing your tasks and to-dos in one centralized place. However, Trello is strictly limited to tasks. It can contain a workout calendar, to-do list, and serve as project management software, but it can't contain your writing, journal, or a database with pictures and references to other objects. 
@@ -187,6 +190,9 @@ Can you write your next novel in Trello? No. Not that I would recommend writing 
 
 Trello's features are mostly available within Notion at this point.
 
+{{< button "https://www.trello.com" "Try Trello" >}}
+{{< button "https://www.notion.so" "Try Notion" >}}
+
 ## Notion vs Airtable
 
 This is the closest comparison because Notion and Airtable are very similar. They both have apps and they both work in the browser. 
@@ -233,6 +239,9 @@ Notion crushes Airtable on pricing and feature availability during the free tria
 I've personally found Notion's in-app onboarding experience to be cleaner, more intuitive, and easier to get started with. Each tool has a learning curve that will take some time to get used to, but I found Notion's to be simpler. 
 
 I prefer the left-hand navigation in Notion to the tab-based navigation in Airtable. It's a simple difference but I find Notion's more natural. 
+
+{{< button "https://www.airtable.com" "Try Evernote" >}}
+{{< button "https://www.notion.so" "Try Notion" >}}
 
 ## The Best Productivity App of 2021
 
