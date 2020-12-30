@@ -7,7 +7,7 @@ copyright = "&copy; 2020"
 pluralizeListTitles = false
 
 # Minimum number of posts before paginate navigation show up
-paginate = 5
+paginate = 6
 
 # Your disqus shortname
 disqusShortname = ""
