@@ -3,6 +3,7 @@ affiliate = "true"
 canonicalurl = ""
 date = 2021-01-01T06:00:00Z
 description = "Migrate your Wordpress Free website to a new hosting provider"
+draft = true
 lastmod = ""
 tags = ["wordpress"]
 title = "How to Migrate Your Wordpress Website To A New Host"
