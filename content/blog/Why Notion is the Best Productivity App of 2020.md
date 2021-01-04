@@ -93,7 +93,7 @@ Compare that to Monday's monthly price of $29 and Notion is a bargain.
 
 ## Notion vs Evernote
 
-Notion [used to give current Evernote users](https://www.notion.so/evernote) $5 in credit to import their Evernotes into Notion, but it seems like they no longer offer that. It was a nice way to entice users over, but by now Notion's product has matured enough to compete without the incentive.
+Notion used to give current [Evernote](https://click.nicklafferty.com/evernote) users $5 in credit to import their Evernotes into Notion, but it seems like they no longer offer that. It was a nice way to entice users over, but by now Notion's product has matured enough to compete without the incentive.
 
 Let's compare features, their free trials, and then wrap up with why Notion is better. 
 
@@ -123,7 +123,7 @@ Notion is a productivity solution, Evernote is a note-taking app. That right the
 
 ### Free Trial Comparison
 
-Both Notion and Evernote are free to use. Notion's free trial lets you create an unlimited number of blocks. A block in Notion is a piece of content; it could be an image, a paragraph, or a row in a table. 
+Both Notion and [Evernote](https://click.nicklafferty.com/evernote) are free to use. Notion's free trial lets you create an unlimited number of blocks. A block in Notion is a piece of content; it could be an image, a paragraph, or a row in a table. 
 
 In my experience Evernote gates a lot of their main features behind their paid plans. So you can take notes and create folders, but it'll pester you to upgrade to a paid plan before you can use it to its full potential.
 
@@ -139,7 +139,7 @@ I've used Evernote in the past and found it cumbersome. Evernote also limits you
 
 Notion lets you add and sync as many devices as you want. They even incentivize you to try their other apps, giving you free credit by downloading a mobile app and sharing content from within the app. 
 
-{{< button "https://www.evernote.com" "Try Evernote" >}}
+{{< button "https://click.nicklafferty.com/evernote" "Try Evernote" >}}
 {{< button "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Trello
@@ -239,7 +239,7 @@ I've personally found Notion's in-app onboarding experience to be cleaner, more 
 
 I prefer the left-hand navigation in Notion to the tab-based navigation in Airtable. It's a simple difference but I find Notion's more natural. 
 
-{{< button "https://www.airtable.com" "Try Evernote" >}}
+{{< button "https://www.airtable.com" "Try Airtable" >}}
 {{< button "https://www.notion.so" "Try Notion" >}}
 
 ## The Best Productivity App of 2021
