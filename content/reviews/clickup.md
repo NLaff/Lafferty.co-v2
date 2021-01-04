@@ -8,6 +8,7 @@ tags = ["productivity"]
 showtoc = true
 tocopen = true
 affiliate = true
+featured = true
 
 +++
 ## What is ClickUp
