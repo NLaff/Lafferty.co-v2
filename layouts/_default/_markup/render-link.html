@@ -1,1 +1,9 @@
+{{- if strings.HasPrefix .Destination "https://click" -}}
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="sponsored"{{ end }}>{{ .Text }}</a>
+{{ else if strings.HasPrefix .Destination "https://amzn" }}
+<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="sponsored"{{ end }}>{{ .Text }}</a>
+{{- else -}}
 <a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank"{{ end }}>{{ .Text }}</a>
+{{- end -}}
+
+

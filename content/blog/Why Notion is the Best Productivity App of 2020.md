@@ -13,7 +13,7 @@ featured = true
 
 +++
 
-This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of [Monday](https://mondaycom.grsm.io/nicklafferty2215).
+This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of [Monday](https://click.nicklafferty.com/monday).
 
 There are a lot of productivity apps on the market. [Notion](http://notion.so) is one of the most popular and flexible tools. It's an all-in-one productivity solution and it's simply one of the best tools I've ever used. 
 
@@ -40,7 +40,7 @@ Here's a shortlist of some of the best productivity apps, updated for 2021. Clic
 ## Notion vs Monday
 Notion describes itself as the all-in-one workspace.
 
-[Monday](https://mondaycom.grsm.io/nicklafferty2215) is workplace management tool designed. 
+[Monday](https://click.nicklafferty.com/monday) is workplace management tool designed. 
 
 Both can do similar things, but the main difference starts with what part of your life the tools are designed to help with. Notion is flexible and can be used to create anything. Monday is only for work. 
 
@@ -64,7 +64,7 @@ Read on to see the Pros and Cons of Monday, a price comparison, and learn why No
 
 ![Monday Prices 2021](https://i.postimg.cc/8cH3pDyp/Screen-Shot-2020-12-28-at-10-24-08-PM.png)
 
-Notion is much cheaper than [Monday](https://mondaycom.grsm.io/nicklafferty2215) simply because their pricing begins with only one user. Monday charges you a minimum of three users. 
+Notion is much cheaper than [Monday](https://click.nicklafferty.com/monday) simply because their pricing begins with only one user. Monday charges you a minimum of three users. 
 
 Monday's goal as a workplace-focused productivity app is to get you and your colleagues to start using it. The faster you invite your colleagues, the better the chances of your usage of the product sticks long term. 
 
@@ -74,7 +74,7 @@ Monday's personal plan starts at $29/month.
 
 ### Free Monday Alternative
 
-**Notion is the best free alternative to [Monday.com](https://mondaycom.grsm.io/nicklafferty2215)**. 
+**Notion is the best free alternative to [Monday.com](https://click.nicklafferty.com/monday)**. 
 
 With Notion you can:
  - [start a daily journal](https://nicklafferty.com/blog/my-notion-journal-templates/)
@@ -88,7 +88,7 @@ It also includes up to 5 total guest collaborators in your space. When you're re
 
 Compare that to Monday's monthly price of $29 and Notion is a bargain.
 
-{{< button "https://mondaycom.grsm.io/nicklafferty2215" "Try Monday" >}}
+{{< button "https://click.nicklafferty.com/monday" "Try Monday" >}}
 {{< button "https://www.notion.so" "Try Notion" >}}
 
 ## Notion vs Evernote

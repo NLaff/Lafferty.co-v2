@@ -28,17 +28,17 @@ pygmentsUseClasses = true
 		weight = 1
 		identifier = "blog"
 
-    [[menu.main]]
-		name = "consulting"
-		url = "/consulting/"
-		weight = 2
-		identifier = "consulting"
+    # [[menu.main]]
+	#	name = "consulting"
+	#	url = "/consulting/"
+	#	weight = 2
+	#	identifier = "consulting"
 
-#	[[menu.main]]
-#		identifier = "interviews"
-#		name = "interviews"
-#		url = "/interviews/"
-#		weight = 10
+	[[menu.main]]
+		identifier = "reviews"
+		name = "reviews"
+		url = "/reviews/"
+		weight = 10
 
 	[[menu.main]]
 		identifier = "search"
