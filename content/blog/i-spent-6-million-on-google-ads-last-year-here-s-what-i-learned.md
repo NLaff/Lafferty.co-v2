@@ -7,6 +7,10 @@ title = "I spent $6 Million On Google Ads Last Year"
 featured = true
 showToc = true
 TocOpen = true
+[cover]
+image = "/uploads/google.jpg"
+alt = "Google Ads"
+caption = "Photo by Rajeshwar Bachu Unsplash"
 
 +++
 I had an unlimited budget. I could spend as much money as I wanted on whatever ads I wanted.
@@ -21,7 +25,7 @@ I crushed the revenue targets.
 
 Here’s what I learned.
 
-### The Creative Is Everything
+## The Creative Is Everything
 
 This is true across every major paid media channel, be it Google, Facebook, Youtube, whatever.
 
@@ -35,7 +39,7 @@ Draw inspiration from other industries. If you're in eCommerce then see what's w
 
 Creative fatigue is real and happens faster than you think, particularly on fast-paced content sites like Facebook and Youtube. People want to see something new, and your brand new ad is only new for a day.
 
-### Automate Everything
+## Automate Everything
 
 The best digital marketers automate the tedious stuff. They use tools like [Supermetrics](https://supermetrics.idevaffiliate.com/idevaffiliate.php?id=2679&tid1=marketing&tid2=6-mil) to automatically pull reports out of Adwords, dump them to a Google Sheet to build beautiful and informative dashboards. 
 
@@ -51,7 +55,7 @@ Anything you build manually today can and should be automated. Repetitive tasks 
 
 Spend time setting up your automated reports once, so the next time you have a meeting or presentation you can pull from your dashboard in 5 seconds instead of building something one-off that takes an hour. 
 
-### The House Always Wins
+## The House Always Wins
 
 I've sat through countless demos for all the major bid management platforms. Marin, Kenshoo, Quantic Mind, and more.
 
@@ -81,7 +85,7 @@ We ended up giving them a full 2 month to test and they couldn't beat Google in 
 
 They were better in Bing Ads though, for what it's worth.
 
-### Youtube Is Still A Hidden Gem
+## Youtube Is Still A Hidden Gem
 
 Creating Youtube ads is hard. You need experience making videos, complex software with a steep learning curve, and more assets.
 
@@ -118,7 +122,7 @@ Think about the user. Email is a very personal space that you're intruding on. Y
 
 If you're having trouble succeeding with Gmail ads then your creative is busted.
 
-### Wrapping Up
+## Wrapping Up
 
 Succeeding at digital marketing is all about iteration. No strategy works forever and failing to consistently test is a recipe for failure.
 
