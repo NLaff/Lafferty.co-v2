@@ -19,11 +19,15 @@ Well, have no fear, because we’re going to use this post to tell you all about
 
 To explain what a subdomain is you first need to understand what domains are.
 
-**A domain is a unique, human-readable way of identifying a website**. Often, this is referred to as the parent domain or the root domain. Right now, you’re on the domain **Mailgun.com**. Behind the scenes, the domain name is connected to a unique IP address through DNS records, but memorizing a set of four numbers is a lot harder than remembering the name Mailgun.com. Because of that, the human-readable way is used for identification purposes. 👍You’re going to need that - unless, of course, you’re a Jedi master.  
+**A domain is a unique, human-readable way of identifying a website**. Often, this is referred to as the parent domain or the root domain. 
 
-A subdomain is a prefix that comes before the root domain. **Subdomains are often used on websites to send traffic to a different IP address while still keeping users on the same root domain**. For example, Mailgun hosts our developer documentation on a separate service, so we use a **documentation** subdomain, [**documentation.mailgun.com**](https://documentation.mailgun.com/en/latest/).
+Right now, you’re on the domain **NickLafferty.com**. Behind the scenes, the domain name is connected to a unique IP address through DNS records, but memorizing a set of four numbers is a lot harder than remembering the name Mailgun.com. Because of that, the human-readable way is used for identification purposes. 
 
-That’s great, but how does this relate to email?
+A subdomain is a prefix that comes before the root domain. 
+
+Subdomains are often used on websites to send traffic to a different IP address while still keeping users on the same root domain. For example, Mailgun hosts their developer documentation on a separate service, so they use **[documentation.mailgun.com](https://documentation.mailgun.com/en/latest/)**.
+
+But how does this relate to email?
 
 ## What’s the difference between an email domain and an email subdomain?
 
@@ -33,7 +37,7 @@ For example, Mailgun’s professional emails are all sent from **Mailgun.com**.
 
 **An email subdomain delivers email from the subdomain instead of the root domain.** Here’s an example:
 
-[**sam@learn.mailgun.com**](mailto:sam@learn.mailgun.com)
+**[sam@learn.mailgun.com](mailto:sam@learn.mailgun.com)**
 
 Learn.mailgun.com is the subdomain that Mailgun uses to send marketing messages. Every user that signs up for a Mailgun account gets a welcome email from Sam, sent from that address.
 
@@ -43,7 +47,9 @@ Inbox providers like Gmail and Yahoo care about **email reputation**, which is a
 
 Your email reputation is based on both **domain reputation** and **IP address reputation**. We wrote more about [email reputation](https://www.mailgun.com/blog/domain-ip-reputation-gmail-care-more-about/) in a separate post, but the important part here is that subdomains have a different reputation than their root domains.
 
-This is a good thing - otherwise, **the reputation of your** [**email marketing**](https://www.mailgun.com/email-marketing/) **campaigns could affect whether potential customers receive emails from your sales team.** Imagine if none of your business emails were delivered to the inbox!  
+This is a good thing - otherwise, **the reputation of your** **[email marketing](https://www.mailgun.com/email-marketing/)** **campaigns could affect whether potential customers receive emails from your sales team.** 
+
+Imagine if none of your business emails were delivered to the inbox!  
 
 This is exactly why Mailgun recommends all customers use a subdomain when sending through our service.
 
