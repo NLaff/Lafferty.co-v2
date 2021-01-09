@@ -6,6 +6,8 @@ description = "Daily and weekly notion journal templates"
 draft = false
 tags = ["notion"]
 lastmod = "2021-01-09"
+showtoc = true
+opentoc = true
 
 +++
 

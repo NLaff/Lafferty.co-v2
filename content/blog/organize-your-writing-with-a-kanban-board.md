@@ -4,6 +4,8 @@ description = "Using a Kanban board enabled me to publish new content every day.
 tags = ["notion"]
 title = "Organize Your Writing With a Notion Kanban Board"
 lastmod = 2021-01-09
+showtoc = true
+tocopen = true
 
 +++
 Building an organizational system for my writing enabled me to [publish new content every day this month](https://nicklafferty.com/blog/why-im-publishing-new-content-every-day-in-february/) and helped build a huge backlog of ideas and drafts for future months.
