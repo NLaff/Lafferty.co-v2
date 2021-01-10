@@ -65,6 +65,7 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 
 
 ### 8. Habit Tracker
+![Notion Habit Tracker](/img/NotionHabit.png)
 **Author:** Nick Lafferty
 
 {{< button "https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/" "Download Link" >}}
@@ -114,6 +115,7 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 ## Notion Personal Templates
 
 ### 15. Kanban Board
+![Notion Kanban Template](/uploads/ScreenShot2020-02-16at8.24.59PM.png)
 **Author:** Nick Lafferty
 
 {{< button "https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/" "Download Link" >}}
@@ -161,11 +163,13 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 {{< button "https://www.notion.so/bafec7757c014a9da5780369c1307aa2?v=efe257ddf8b444eab316da607d59a98b" "Download Link" >}}
 
 ### 23. Daily Journal
+![Notion Journal Template](/img/NotionJournal.png)
 **Author:** Nick Lafferty
 
 {{< button "https://nicklafferty.com/blog/my-notion-journal-templates/" "Download Link" >}}
 
 ### 24. Bullet Journal
+![Notion Bullet Journal](https://i.postimg.cc/W3njCckv/Screen-Shot-2020-02-10-at-4-46-24-PM.png)
 **Author:** Nick Lafferty
 
 {{< button "https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/" "Download Link" >}}
