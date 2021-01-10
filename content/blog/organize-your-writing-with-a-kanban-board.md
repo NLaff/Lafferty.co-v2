@@ -79,6 +79,8 @@ If you have any current drafts, bring them in.
 
 ## Wrapping Up
 
+Want more? Read my master list of [free and beautiful notion templates](/blog/free-notion-templates).
+
 That's it! Starting a Kanban board is super easy, either in Notion, Trello, Asana, or any other major tool.
 
 But you have to start using it to see the real value.

@@ -10,7 +10,9 @@ TocOpen = true
 
 +++
 
-See how I used Notion to create a digital bullet journal. Notion's ability to references other pages make it a powerful tool to keep your bullet journal, or any other documents, automatically sync'd to all your devices. 
+See how I used Notion to create a digital bullet journal. Notion's ability to references other pages make it a powerful tool to keep your bullet journal, or any other documents, automatically sync'd to all your devices.
+
+Before you read on, check out my post on [32 free Notion templates](/blog/free-notion-templates/).
 
 ## What is a bullet journal?
 

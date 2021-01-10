@@ -87,6 +87,8 @@ With Notion you can:
 
 Because Notion's free trial includes unlimited blocks and pages, you can create project overviews, timelines, kanban boards, and more. All for free.
 
+Make sure to read my list of 32 [free Notion templates](/blog/free-notion-templates/).
+
 It also includes up to 5 total guest collaborators in your space. When you're ready to expand beyond that, it only costs $5/month.
 
 Compare that to Monday's monthly price of $29 and Notion is a bargain.
