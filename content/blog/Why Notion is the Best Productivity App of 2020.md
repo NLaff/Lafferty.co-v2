@@ -79,11 +79,11 @@ Monday's personal plan starts at $29/month.
 
 **Notion is the best free alternative to [Monday.com](https://click.nicklafferty.com/monday)**. 
 
-With Notion you can:
- - [start a daily journal](https://nicklafferty.com/blog/my-notion-journal-templates/)
- - [track your habits](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
- - [bullet journal](https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/)
- - [create a Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
+Here's some of the cool things you can do:
+ - [start a daily journal with Notion](https://nicklafferty.com/blog/my-notion-journal-templates/)
+ - [track your habits with Notion](https://nicklafferty.com/blog/how-i-ve-started-using-notion-to-track-my-life/)
+ - [Create a Notion bullet journal](https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/)
+ - [create a Notion Kanban board](https://nicklafferty.com/blog/organize-your-writing-with-a-kanban-board/).
 
 Because Notion's free trial includes unlimited blocks and pages, you can create project overviews, timelines, kanban boards, and more. All for free.
 
