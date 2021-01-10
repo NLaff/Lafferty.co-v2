@@ -1,9 +1,9 @@
 +++
-date = 2021-01-09
+date = "2021-01-09"
 description = "Free Notion templates for students, personal finance, work, productivity, and more"
 tags = ["notion"]
 title = "32 Beautiful & Free Notion Templates"
-lastmod = 2021-01-09
+lastmod = "2021-01-09"
 showtoc = true
 tocopen = true
 draft = false
@@ -105,10 +105,11 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 
 
 ### 14. Portfolio Tracker
+![Notion Portfolio Tracker](/uploads/portfoliotracker.png)
 **Author:** [Zoe Chew](https://twitter.com/whizzzoe)
 
 {{< button "https://www.notion.so/Portfolio-Tracker-2-0-707ff5ec560149cb885345290c0f3608" "Download Link" >}}
-![Notion Portfolio Tracker](/uploads/portfoliotracker.png)
+
 
 ## Notion Personal Templates
 
@@ -127,47 +128,47 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 ### 17. Book Reading Tracker
 **Author:** [Zoe Chew](https://twitter.com/whizzzoe)
 
-{{ < button "https://www.notion.so/Book-Reading-Tracker-103c3a8aa313407bbd5211d653aa6f8e" "Download Link"}}
+{{< button "https://www.notion.so/Book-Reading-Tracker-103c3a8aa313407bbd5211d653aa6f8e" "Download Link" >}}
 
 ### 18. Workout Tracker
 ![Notion Workout Tracker](/uploads/workoutracker.png)
 **Author:** [Stefan Imhoff](https://twitter.com/kogakure)
 
-{{ < button "https://www.notion.so/Workouts-1c6875af1ec04f6d8ec64a0d520f67ed" "Download Link"}}
+{{< button "https://www.notion.so/Workouts-1c6875af1ec04f6d8ec64a0d520f67ed" "Download Link" >}}
 
 ### 19. Resume Template
 ![Notion Resume Template](/uploads/resume.png)
 **Author:** Curtis Smith
 
-{{ < button "https://www.notion.so/Resume-08cf064783324438bd9a3f2de1e35985" "Download Link"}}
+{{< button "https://www.notion.so/Resume-08cf064783324438bd9a3f2de1e35985" "Download Link" >}}
 
 ### 20. CRM Template
 ![Notion CRM Template](/uploads/crmtemplate.png)
 **Author:** Notion.Courses
 
-{{ < button "https://www.notion.so/radreads/CRM-Template-and-Videos-e00dcfa82b3347dda72e61dba7943499" "Download Link"}}
+{{< button "https://www.notion.so/radreads/CRM-Template-and-Videos-e00dcfa82b3347dda72e61dba7943499" "Download Link" >}}
 
 ### 21. Meal Planner
 ![Notion Meal Planning Templat](/uploads/mealplanner.png)
 **Author:** Notion Team
 
-{{ < button "https://www.notion.so/Meal-Planner-95747105f402490eba51d52e00496c1c" "Download Link"}}
+{{< button "https://www.notion.so/Meal-Planner-95747105f402490eba51d52e00496c1c" "Download Link" >}}
 
 ### 22. House Plant Manager
 ![Notion House Plan Template](/uploads/houseplants.png)
 **Author:** [Thomas Sanlis](https://twitter.com/T_Zahil)
 
-{{ < button "https://www.notion.so/bafec7757c014a9da5780369c1307aa2?v=efe257ddf8b444eab316da607d59a98b" "Download Link"}}
+{{< button "https://www.notion.so/bafec7757c014a9da5780369c1307aa2?v=efe257ddf8b444eab316da607d59a98b" "Download Link" >}}
 
 ### 23. Daily Journal
 **Author:** Nick Lafferty
 
-{{ < button "https://nicklafferty.com/blog/my-notion-journal-templates/" "Download Link"}}
+{{< button "https://nicklafferty.com/blog/my-notion-journal-templates/" "Download Link" >}}
 
 ### 24. Bullet Journal
 **Author:** Nick Lafferty
 
-{{ < button "https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/" "Download Link"}}
+{{< button "https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/" "Download Link" >}}
 
 ## Finance Notion Templates
 
@@ -175,21 +176,21 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 ![Notion Finance Template](/uploads/financetracker.png)
 **Author:** [Zoe Chew](https://twitter.com/whizzzoe)
 
-{{ < button "https://www.notion.so/Finance-tracker-04a86c8db56e458099cac091e0ef9279" "Download Link"}}
+{{< button "https://www.notion.so/Finance-tracker-04a86c8db56e458099cac091e0ef9279" "Download Link" >}}
 
 
 ### 26. Budget Tracker
 ![Notion Budget Tracker Templat](/uploads/budgettracker.png)
 **Author:** [Benjamin Gowers](https://medium.com/@benjamingowers)
 
-{{ < button "https://www.notion.so/Budget-Tracker-014d3f4db163482bb512eabc584b7fa7" "Download Link"}}
+{{< button "https://www.notion.so/Budget-Tracker-014d3f4db163482bb512eabc584b7fa7" "Download Link" >}}
 
 
 ### 27. Personal Budget
 ![Notion Budget Template](/uploads/personalbudget.png)
 **Author:** [Red Gregory](https://twitter.com/redgregory1)
 
-{{ < button "https://www.notion.so/Personal-Budget-9ca4f0143a09478e80a17b44f1095677" "Download Link"}}
+{{< button "https://www.notion.so/Personal-Budget-9ca4f0143a09478e80a17b44f1095677" "Download Link" >}}
 
 ## Notion Templates For Work
 
@@ -197,29 +198,29 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 ![Notion Mood Board](/uploads/moodboard.png)
 **Author:** Notion Team
 
-{{ < button "https://www.notion.so/Mood-board-f86a7536994c4328b689e0c550a0b3e7" "Download Link"}}
+{{< button "https://www.notion.so/Mood-board-f86a7536994c4328b689e0c550a0b3e7" "Download Link" >}}
 
 ### 29. Weekly Agenda
 ![Notion Weekly Agenda](/uploads/weeklyagenda.png)
 **Author:** [Marie Poulin](https://twitter.com/mariepoulin)
 
-{{ < button "https://www.notion.so/Weekly-agenda-9e197cdf88dc4d3abf798b999ebce40a" "Download Link"}}
+{{< button "https://www.notion.so/Weekly-agenda-9e197cdf88dc4d3abf798b999ebce40a" "Download Link" >}}
 
 ### 30. Company Wiki
 ![Notion Company Wiki Templat](/uploads/companywiki.png)
 **Author:** [Red Gregory](https://twitter.com/redgregory1)
 
-{{ < button "https://www.notion.so/Company-Wiki-cc9f09f5b1cc4becae3d0bb833f240d7" "Download Link"}}
+{{< button "https://www.notion.so/Company-Wiki-cc9f09f5b1cc4becae3d0bb833f240d7" "Download Link" >}}
 
 ### 31. Employee Hiring System
 ![Notion Hiring Template](/uploads/hiring.png)
 **Author:** [Red Gregory](https://twitter.com/redgregory1)
 
-{{ < button "https://www.notion.so/Employee-Hiring-System-980aa7cbf3b54668ba8fe49c0f3575d1" "Download Link"}}
+{{<  button "https://www.notion.so/Employee-Hiring-System-980aa7cbf3b54668ba8fe49c0f3575d1" "Download Link" >}}
 
 
 ### 32. Invoice Template
 ![Notion Invoice Templat](/uploads/invoice.png)
 **Author:** [Red Gregory](https://twitter.com/redgregory1)
 
-{{ < button "https://www.notion.so/00fa657790b7431ca7736d6c50596eb5?v=4887b0c4e1c84f6983e36606b7c9ff74" "Download Link"}}
+{{< button "https://www.notion.so/00fa657790b7431ca7736d6c50596eb5?v=4887b0c4e1c84f6983e36606b7c9ff74" "Download Link" >}}
