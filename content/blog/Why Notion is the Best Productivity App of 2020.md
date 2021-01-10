@@ -33,17 +33,17 @@ Here's a shortlist of some of the best productivity apps, updated for 2021. Clic
 
 ## Monthly Pricing Comparison
 
-| Tier | Notion | Evernote | Trello  | Airtable | Monday |
-| ------ | ------ | ------ | ------- | ------- | ------- | 
-| Personal   | $5   | $8   | $12.50   | $10^ | $29 |
-| Pro/Team   | $10   | $14   | $17.50   | $20^ | $36 |
+| Tier | [Notion](https://notion.so) | [Evernote](https://click.nicklafferty.com/evernote) | [Trello](https://trello.com)  | [Airtable](https://airtable.com) | [Monday](https://click.nicklafferty.com/monday) | [ClickUp](https://click.nicklafferty.com/clickup) |
+| ------ | ------ | ------ | ------- | ------- | ------- |  ------- |
+| Personal   | $5   | $8   | $12.50   | $10^ | $29 | $9 |
+| Pro/Team   | $10   | $14   | $17.50   | $20^ | $36 | $19 |
 
 *^billed annually*
 
 ## Notion vs Monday
 Notion describes itself as the all-in-one workspace.
 
-[Monday](https://click.nicklafferty.com/monday) is workplace management tool designed. 
+[Monday](https://click.nicklafferty.com/monday) is workplace management tool designed to use across multiple people. 
 
 Both can do similar things, but the main difference starts with what part of your life the tools are designed to help with. Notion is flexible and can be used to create anything. Monday is only for work. 
 
@@ -247,9 +247,54 @@ I prefer the left-hand navigation in Notion to the tab-based navigation in Airta
 {{< button "https://www.airtable.com" "Try Airtable" >}}
 {{< button "https://www.notion.so" "Try Notion" >}}
 
+## Notion vs ClickUp
+
+[Read my full review of ClickUp](/reviews/clickup/).
+
+Like Notion, ClickUp is a technology start-up based in California.
+
+Notion's headquarters is in San Francisco, while ClickUp's is now located in San Diego.
+
+Both have received venture capital funding. Notion is valued at $2 billion as of April 2020 after a $50 million funding round. ClikcUp is valued at $1 billion as of December 2020 after a $100 million funding round. 
+
+### Feature Comparison
+
+I cover all of ClickUps features in my [full review](/reviews/clickup/), but here's a small snapshot. 
+
+**ClickUp Features**
+- To-Do Lists
+- Project Management
+- Docs, Wikis, and Spreadsheets
+- Goal & Time Tracking
+- A generous free plan
+
+**Notion Features**
+- A fully customizable database able to track your entire life
+- A generous free plan
+- Project Management
+- To-Do Lists
+- Docs, Wikis, and Relation Databases
+
+### Monthly Pricing Comparison
+
+| Tier | [Notion](https://notion.so) |  [ClickUp](https://click.nicklafferty.com/clickup) |
+| ------ | ------ | ------ | 
+| Personal   | $5   | $9 |
+| Pro/Team   | $10  | $19 |
+
+Both ClickUp and Notion offer solid free plans that are free forever. But there are some key differences.
+
+Notion gives free users access to all features. Notion also allows guest access with up to 5 people on the free plan. 
+
+ClickUp reserves some features for paying users, like Unlimited Integrations and Dashboards. Adding guests to your ClickUp account is also only available on a paid plan. 
+
+{{< button "https://click.nicklafferty.com/clickup" "Try ClickUp For Free" >}}
+
+
+
 ## The Best Productivity App of 2021
 
-Notion beats Monday, Evernote, Trello, and Airtable across the board. Evernote and Trello are very limited apps, good at one specific purpose and terrible at everything else. Airtable is Notion's closest competitor in the scope of this article, but it still falls short. On pricing alone Notion is half the cost of Airtable, before you factor in all free credit Notion gives you for completing certain tasks. 
+Notion beats Monday, Evernote, Trello, ClickUp, and Airtable across the board. Evernote and Trello are very limited apps, good at one specific purpose and terrible at everything else. Airtable is Notion's closest competitor in the scope of this article, but it still falls short. On pricing alone Notion is half the cost of Airtable, before you factor in all free credit Notion gives you for completing certain tasks. 
 
 Give Notion a shot today. The built-in templates are great, and there are tons of other articles on how to setup Notion just the way you want it. 
 
