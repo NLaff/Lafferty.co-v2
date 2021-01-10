@@ -16,7 +16,7 @@ alt = "Best Productivity Tools"
 
 +++
 
-This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of [Monday](https://click.nicklafferty.com/monday).
+This post on the best productivity tools was first written in 2020. It's been updated for 2021 to reflect feature and pricing changes and the addition of [Monday](https://click.nicklafferty.com/monday) and [ClickUp](https://click.nicklafferty.com/clickup).
 
 There are a lot of productivity apps on the market. [Notion](http://notion.so) is one of the most popular and flexible tools. It's an all-in-one productivity solution and it's simply one of the best tools I've ever used. 
 
