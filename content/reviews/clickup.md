@@ -1,7 +1,8 @@
 +++
 
-title = "ClickUp Review | How Does It Compare to Monday?"
+title = "ClickUp Review | How Does It Compare?"
 date = "2021-01-03"
+lastmod = "2021-01-16"
 description = "A productivity tool power user reviews ClickUp to see how it stacks up to Monday."
 draft = false
 tags = ["productivity"]
@@ -61,7 +62,7 @@ They also have a business plan that adds even more features, and have Enterprise
 ## ClickUp vs Monday
 ![Clickup Board View](/uploads/clickup_board.png)
 
-ClickUp is an extremely attractive competitor to Monday based on Pricing and Features.
+ClickUp is an extremely attractive competitor to [Monday](https://click.nicklafferty.com/monday) based on Pricing and Features.
 
 ### Pricing
 
@@ -97,6 +98,44 @@ Here's how Monday vs Clickup compares on features.
 The list goes on, but in general ClickUp has more features available at a lower price. They also have a free plan which allows users to try out many of these features at no cost.
 
 **Winner**: [ClickUp](https://click.nicklafferty.com/clickup)
+
+## ClickUp vs Wrike
+
+### Pricing
+![Wrike Pricing](/uploads/wrikepricing.png)
+
+At both pricing levels Wrike is slightly more expensive than ClickUp, but the difference isn't meaningful. Here's how Wrike and Clickup compare on price.
+
+| Plan | [ClickUp](https://click.nicklafferty.com/clickup) | [Wrike](https://click.nicklafferty.com/wrike) |  
+| ------ | ------ | ------ | 
+| Free | $0 | $0 |
+| Basic | $9  | $9.80 |
+| Pro | $19 | $24.80 |
+
+
+### Features
+Wrike has many of the same features as ClickUp, but ClickUp offers many of them in their free plan, and Wrike gates them behind the Professional plan.
+
+Both have Gantt charts, Kanban boards, and easy to use default templates. 
+
+Here's a short feature comparison.
+
+| Feature | ClickUp | Wrike |  
+| ------ | ------ | ------ |
+| Slash Commands | No | Yes |
+| Custom Statuses | Yes | Yes | 
+| Multiple Assignees | Yes | Yes| 
+| Goals | Yes | Yes |
+| Smart Notifications | No | Yes | 
+| Chrome Extension | No | Yes |
+| Conversations | No | Yes |
+
+Compared to Wrike, ClickUp has several more advanced features, many available on their free tier. Chat, embeddable docs and spreadsheets, and even an Alexa & Google Assistant integration are a few features that Wrike does not have. 
+
+**Winner**: [ClickUp](https://click.nicklafferty.com/clickup)
+
+### Wrike Alternatives
+Both [Monday](https://click.nicklafferty.com/monday) and [ClickUp](https://click.nicklafferty.com/clickup) are good alternatives to Wrike. Monday is the more expensive option due to it's forced 3-user minimum pricing plans. ClickUp is a more affordable option.
 
 
 ## ClickUp Integrations
