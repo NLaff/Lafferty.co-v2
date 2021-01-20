@@ -49,6 +49,15 @@ pygmentsUseClasses = true
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
 
+[related]
+  includeNewer = false
+  threshold = 20
+  toLower = false
+
+  [[related.indices]]
+    name = "tags"
+    weight = 100
+
 [minify]
     disableXML = true
     minifyOutput = true
