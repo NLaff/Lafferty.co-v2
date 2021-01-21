@@ -76,10 +76,10 @@ home = [ "HTML", "RSS", "JSON" ]
 	disableSpecial1stPost = false
 
   [params.assets]
-  favicon = ""
-  favicon16x16 = ""
-  favicon32x32 = ""
-  apple_touch_icon = ""
+  favicon = "/img/favicon.ico"
+  favicon16x16 = "/img/favicon-16x16.png"
+  favicon32x32 = "/img/favicon-32x32.png"
+  apple_touch_icon = "/img/apple-touch-icon.png"
   safari_pinned_tab = ""
 
   [params.label]
@@ -103,17 +103,17 @@ home = [ "HTML", "RSS", "JSON" ]
   Title = "👋 Hi, I'm Nick Lafferty."
   Content = "I'll help take your digital marketing skills to the next level."
 
-  # [[params.socialIcons]]
-  # name = "linkedin"
-  # url = "https://www.linkedin.com/in/nicklafferty"
+   [[params.socialIcons]]
+   name = "linkedin"
+   url = "https://www.linkedin.com/in/nicklafferty"
 
    [[params.socialIcons]]
    name = "email"
    url = "mailto:nick@lafferty.co"
 
-  # [[params.socialIcons]]
-  # name = "twitter"
-  # url = "https://www.twitter.com/LaffertyN"
+   [[params.socialIcons]]
+   name = "twitter"
+   url = "https://www.twitter.com/LaffertyN"
 
 [taxonomies]
 	tag = "tags"
