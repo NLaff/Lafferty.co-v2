@@ -7,6 +7,9 @@ draft = false
 tags = ["email", "reviews"]
 showtoc = true
 tocopen = true
+[cover]
+image = "/uploads/superhuman.png"
+alt = "Superhuman Review"
 
 +++
 
