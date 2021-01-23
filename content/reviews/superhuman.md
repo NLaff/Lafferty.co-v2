@@ -5,6 +5,7 @@ date = "2021-01-19"
 description = "Superhuman is the best email client I've ever used. But is it worth the high price?"
 draft = false
 tags = ["email", "reviews"]
+featured = true
 showtoc = true
 tocopen = true
 [cover]

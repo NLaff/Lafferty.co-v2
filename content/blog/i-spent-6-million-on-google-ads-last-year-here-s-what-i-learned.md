@@ -4,7 +4,6 @@ date = 2020-02-21T06:00:00Z
 description = "I spent a lot of money on Google ads last year across Search, Display, Youtube, Discovery, and Gmail. Here's what I learned."
 tags = ["marketing"]
 title = "I spent $6 Million On Google Ads Last Year"
-featured = true
 showToc = true
 TocOpen = true
 [cover]
