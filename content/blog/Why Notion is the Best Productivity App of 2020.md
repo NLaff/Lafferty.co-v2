@@ -100,6 +100,8 @@ Compare that to Monday's monthly price of $29 and Notion is a bargain.
 
 ## Notion vs Evernote
 
+Read my [full review of Evernote](/reviews/evernote/).
+
 Notion used to give current [Evernote](https://click.nicklafferty.com/evernote) users $5 in credit to import their Evernotes into Notion, but it seems like they no longer offer that. It was a nice way to entice users over, but by now Notion's product has matured enough to compete without the incentive.
 
 Let's compare features, their free trials, and then wrap up with why Notion is better. 
