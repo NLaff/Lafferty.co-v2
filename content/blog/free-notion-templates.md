@@ -174,7 +174,7 @@ Make sure to check out [my list of the best productivity tools of 2021.](https:/
 
 {{< button "https://nicklafferty.com/blog/create-a-bullet-journal-in-notion-free-template/" "Download Link" >}}
 
-## Finance Notion Templates
+## Notion Templates For Personal Finance
 
 ### 25. Finance Tracker
 ![Notion Finance Template](/uploads/financetracker.png)
