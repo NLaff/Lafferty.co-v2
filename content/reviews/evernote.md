@@ -145,7 +145,7 @@ Notion is arguably the best Evernote alternative on the market, and [our favorit
 
 ![Clickup Avernote Alternative](/uploads/ClickUp_-_Evernote_Alternative.png)
 
-Like Notion, ClickUp is designed to [replace your current productivity stack](https://nicklafferty.com/reviews/clickup/) with one singular application.
+Like Notion, ClickUp is designed to replace your current productivity stack with one singular application. Read my [full ClickUp review](https://nicklafferty.com/reviews/clickup/) to learn more.
 
 Take control of your business with at-a-glance notes, spreadsheets, and various project management tools. ClickUp keeps your entire life and business in one centralized location, making it easy to view and manage faster than ever before.
 
