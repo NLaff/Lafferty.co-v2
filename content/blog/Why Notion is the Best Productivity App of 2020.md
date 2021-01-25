@@ -268,7 +268,7 @@ Both have received venture capital funding. Notion is valued at $2 billion as of
 
 ### Feature Comparison
 
-I cover all of ClickUps features in my [full review](/reviews/clickup/), but here's a small snapshot. 
+I cover all of the features in my [complete ClickUp review](/reviews/clickup/), but here's a small snapshot. 
 
 **ClickUp Features**
 - To-Do Lists
