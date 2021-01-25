@@ -22,8 +22,6 @@ There are a lot of productivity apps on the market. [Notion](http://notion.so) i
 
 Notion is incredibly flexible. It can be a writing repository, task management software, a workout calendar, a database, and so much more. Better yet, you can connect your data in each of those projects to each other, so your workout calendar can reference your journal entries.
 
-{{< email >}}
-
 In 2020 Notion updated their free tier to have unlimited blocks, previously you were limited to 1,000. Now you can use as many as you like. 
 
 Here's a shortlist of some of the best productivity apps, updated for 2021. Click to jump to that section:
@@ -32,6 +30,9 @@ Here's a shortlist of some of the best productivity apps, updated for 2021. Clic
 - [Evernote](#notion-vs-evernote)
 - [Trello](#notion-vs-trello)
 - [Airtable](#notion-vs-airtable)
+- [ClickUp](#notion-vs-clickup)
+
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
 
 ## Monthly Pricing Comparison
 
@@ -296,7 +297,7 @@ Notion gives free users access to all features. Notion also allows guest access 
 
 ClickUp reserves some features for paying users, like Unlimited Integrations and Dashboards. Adding guests to your ClickUp account is also only available on a paid plan. 
 
-{{< button "https://click.nicklafferty.com/clickup" "Try ClickUp For Free" >}}
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
 
 
 
