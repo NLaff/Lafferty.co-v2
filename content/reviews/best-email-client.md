@@ -45,13 +45,14 @@ Email clients have several advantages over using a web-based mail client.
 
 ## Best Email Clients
 
-1. Superhuman
-2. Spark
-3. Airmail
-4. Mailbird
-5. eM Client
-6. Thunderbird
-7. Postbox
+1. [Superhuman](#1-superhuman)
+2. [Spark](#2-spark)
+3. [Airmail](#3-airmail)
+4. [Mailbird](#1-mailbird)
+5. [eM Client](#4-em-client)
+6. [Thunderbird](#5-thunderbird)
+7. [Postbox](#6-postbox)
+8. [Spike](#spike)
 
 ## Best Email Clients For Mac
 
@@ -318,6 +319,38 @@ There is no free version, but Mailbird has a 14 day money back guarantee. So you
 ### 4. Postbox
 
 [See my Postbox review above](#6-postbox).
+
+## Honorable Mentions
+Not every email client made my initial list. Here's a few others that look really promising. 
+
+### Spike
+![Spike Email App](/uploads/spike.png)
+Spike is a conversational and collaborative email client. It's design is much more like a text conversation than your traditional email client. Spike takes an old school technology like email and brings it into the modern era with tasks and collaborative notes. 
+
+Spike is cross-platform and supports both Macs and PCs
+
+#### Pricing
+![Spike Pricing](/uploads/spikepricing.png)
+
+Spike has a competitive free tier that includes up to 15k message history and 5gb of storage. Plenty for the average user to get a feel for using it.
+
+Upgrading to $4/month gets you unlimited messaging history, 50gb of storage, and a whole lot more. 
+
+Bumping that price to $6/month moves you into the business tier, which doubles your storage to 100gb and allows unlimited groups.
+
+
+#### Features
+* Conversational email (more like a text than an email)
+* Collaborative notes & tasks
+* Group chat
+* Advanced search
+* Calendar integration with Google, Outlook, and Apple Calendar
+* Priority inbox
+* Read receipts
+* Unified Inbox
+
+{{< button "https://www.spikenow.com/" "Try Spike Today" >}}
+
 
 ## Wrapping Up
 
