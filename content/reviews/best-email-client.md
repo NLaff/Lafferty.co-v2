@@ -2,6 +2,7 @@
 
 title = "7 Best Email Clients For Mac & Windows"
 date = "2021-01-24"
+lastmod = "2021-01-25"
 description = "Investing in a good email client can make you more productive. See how Superhuman, Mailbird, eM Client, and more compare. "
 draft = false
 tags = ["email", "reviews"]
