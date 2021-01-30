@@ -2,7 +2,7 @@
 
 title = "How To Write A Cover Letter That Doesn't Suck"
 date = "2021-01-30"
-description = "Most cover letters suck, but yours won't after reading this."
+description = "Most cover letters suck, but yours won't after applying these common conversion copywriting techniques."
 draft = false
 tags = ["writing"]
 showtoc = true
