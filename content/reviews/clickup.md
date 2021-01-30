@@ -2,7 +2,7 @@
 
 title = "ClickUp Review | How Does It Compare?"
 date = "2021-01-03"
-lastmod = "2021-01-16"
+lastmod = "2021-01-30"
 description = "A productivity tool power user reviews ClickUp to see how it stacks up to Monday."
 draft = false
 tags = ["productivity", "reviews"]
@@ -26,6 +26,16 @@ Some of their well-known customers are Google, Airbnb, Nike, and Uber.
 Their main competitors are [Notion](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/), Trello, Asana, and [Monday](https://click.nicklafferty.com/monday).
 
 {{< youtube oECxYUrDX1Y >}}
+
+## ClickUp Reviews
+
+ClickUp has extremely positive reviews from users.
+
+* **[Capterra](https://www.capterra.com/p/158833/ClickUp/)**: 4.7/5 Stars (2,094 reviews)
+* **[G2](https://www.g2.com/products/clickup/reviews)**: 4.5/5 Stars (2,367 Reviews)
+* **[TrustRadius](https://www.trustradius.com/products/clickup/reviews)**: 9/10 (66 reviews)
+
+Having such positive reviews across the board is a strong signal that ClickUp cares about their users, and that they make an effort to maintain their review profile. 
 
 ## How To Use ClickUp
 ![Clickup Project Management](/uploads/clickup_pm.png)
