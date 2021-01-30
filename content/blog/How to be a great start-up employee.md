@@ -2,6 +2,7 @@
 
 title = "How To Be A Great Start-Up Employee"
 date = "2020-02-08"
+lastmod = "2021-01-30"
 description = "It's easier than you think. "
 draft = false
 tags = ["work"]
@@ -15,6 +16,8 @@ I've worked at two high growth startups over the last six years. I've done every
 I was initially hired to do only one of those things, but as I was recognized for performing at a high level I was handed more responsibilities. Those lead to big promotions, raises, and equity grants.
 
 I more than doubled my salary over that time. Come along as I share what worked for me on how to be a great start-up employee.
+
+Getting a start-up job starts with a great cover letter. Learn how to [write an amazing cover letter](/blog/cover-letters/)
 
 ## Master your tools
 

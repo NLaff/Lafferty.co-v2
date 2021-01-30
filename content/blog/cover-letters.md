@@ -39,7 +39,7 @@ Here's the good news. I'm going to show you what a rock solid cover letter is fo
 
 We'll start at the beginning. 
 
-## Do I Need A Cover Letter
+## Do I Need A Cover Letter?
 
 Yes, you fool. It's your chance to stand out.
 
