@@ -29,6 +29,12 @@ You want motivation? Spend some time scrolling through LinkedIn.
 
 There are a few things on LinkedIn that when done right will accelerate your career and maximize your earnings potential.
 
+## LinkedIn Profile Tips
+1. Keep your LinkedIn profile updated
+2. Post professionally interesting things
+3. Make new Linkedin connections
+4. Constantly try new things
+
 ## 1. Keep Your LinkedIn Profile Updated
 
 This sounds easy, but doing it well takes work. Not only should you always add your latest jobs, but you should be writing about the specific duties for that job.
@@ -160,6 +166,28 @@ This is the one time where an immediate message is appropriate.
 Tell them you're interested in the position and would like to set up a time to chat. If they respond to you, that's a great positive signal. It means they've checked out your profile and think you could be a good fit.
 
 Plus, you helped make their job easier. Who doesn't love that?
+
+## 4. Constantly Try New Things
+
+LinkedIn, like every social network, has an algorithm that decides what content to show in your news feed. 
+
+The algorithm favors things that get engagement, are interesting, and that keep users on the website.
+
+Have you wondered why everyone puts links in the first comment? There's a belief that the algorithm prefers those types of posts that don't link out from the post itself. 
+
+Also, clicking to see the comments, and maybe even engaging, is a positive engagement signal. 
+
+But that won't alwways be the case. So if you want more profile views and to show up in more newsfeeds, you need to keep trying new things.
+
+Every time I post something engaging my profile views shoot up. That's because I get seen by more people who want to look at my profile.
+
+Maybe it helps that I have "Would have a beer with Skrillex" in my Linkedin headline.
+
+What works today to get post engagement won't work 6 or 12 months from now. Algorithms evolve, as do user's preferences and tastes.
+
+So you need to keep trying new things. Think of it like a game.
+
+Your strategy needs to evolve. 
 
 ## SEO Optimizing Your LinkedIn Profile Is Easy
 
