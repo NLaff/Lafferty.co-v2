@@ -68,7 +68,7 @@ Upgrading to an unlimited plan starts at $9/month, or $60 annually($5/month) and
 
 They also have a business plan that adds even more features, and have Enterprise pricing available for really large businesses or teams. 
 
-{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp" >}}
 
 ## ClickUp vs Monday
 ![Clickup Board View](/uploads/clickup_board.png)
@@ -89,7 +89,7 @@ ClickUp's cheapest paid plan is $9/month, compared to Monday's $36/month. The ma
 
 The next level up ClickUp is $40 cheaper per month than Monday for similar features. It's really no contest between the two on pricing.
 
-{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp" >}}
 
 ### Features
 
@@ -143,7 +143,7 @@ Here's a short feature comparison.
 
 Compared to Wrike, ClickUp has several more advanced features, many available on their free tier. Chat, embeddable docs and spreadsheets, and even an Alexa & Google Assistant integration are a few features that Wrike does not have. 
 
-{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp" >}}
 
 ### Wrike Alternatives
 Both [Monday](https://click.nicklafferty.com/monday) and [ClickUp](https://click.nicklafferty.com/clickup) are good alternatives to Wrike. Monday is the more expensive option due to it's forced 3-user minimum pricing plans. ClickUp is a more affordable option.
@@ -166,4 +166,4 @@ ClickUp is a competitive entry into the workplace productivity tools. Their plan
 
 They're significantly cheaper than their main competitor, [Monday](https://click.nicklafferty.com/monday). Personally I find Monday absurdly expensive, and their pricing model turns off many consumers looking for a one-user tool. 
 
-{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp With The Code 15Off" >}}
+{{< button "https://click.nicklafferty.com/clickup" "Get 15% Off ClickUp" >}}
