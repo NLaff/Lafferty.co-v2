@@ -3,7 +3,7 @@ date = 2020-10-01
 description = "Quitting video games was the best decision of my life, but only because I chose to spend that time in other more productive ways. "
 tags = ["games"]
 title = "Why I Quit Video Games and How You Can Too"
-lastmod = 2020-10-03
+lastmod = 2021-01-31
 featured = true
 showToc = true
 TocOpen = true
@@ -26,6 +26,41 @@ Here are the specific steps I took. I’ll go into more detail below.
 2. Tell people you’re quitting. Tell your friends, family, girlfriend, boyfriend, write a blog post on the internet. **This makes you accountable**
 3. **Find 3 hobbies** to replace video games with.
 4. Uninstall every game from your computer. **Introduce friction** so it’s not easy to start playing again.
+
+## Hobbies To Replace Video Games
+
+The best hobby to replace video games is the one you're most interested in. The second best hobby is one with zero start-up cost.
+
+Here's a few to jumpstart your thinking:
+
+1. Writing
+2. Reading (set a goal to read 10 books)
+3. Running
+4. Start a podcast
+5. Start a youtube channel
+6. Create something
+
+Want to know the secret to replacing video games? Stop researching and take action.
+
+Stop searching Google, YouTube, or Reddit. I know you want to quit because you're reading this article.
+
+In the immortial words of Shia LaBeouf...
+
+![Just Do it](https://memegenerator.net/img/instances/70999312.jpg)
+
+## How To Cut Back On Video Games 
+
+1. Track your game time
+2. Constrain your playing time
+3. Use the 2-day rule
+4. Start a new hobby
+5. Stop caring about new video games
+6. Stop watching Twitch
+7. Quit for a long time
+
+Cutting back is harder than quitting games entirely. If you're asking yourself, should I quit video games, then the answer is probably yes. 
+
+Cutting back still gives you the option and ability to play at a moments notice. If you're serious about qutting then you should take serious steps.
 
 ## Why You Should Quit Video Games
 
@@ -54,7 +89,7 @@ You’ll get that feeling of being bored all the time. Of not knowing what else 
 
 With those 5 questions in mind, let’s explore how to quit video games for good.
 
-## Step-by-step Guide to Quit
+## How To Quit Video Games
 
 ### 1. Commit to Quitting for a Long Time
 
