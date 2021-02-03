@@ -8,8 +8,8 @@ tags = ["writing"]
 showtoc = true
 tocopen = true
 [cover]
-image = ""
-alt = ""
+image = "/uploads/coverletter.png"
+alt = "How To Write A Cover Letter"
 
 +++
 

@@ -8,8 +8,8 @@ tags = ["writing"]
 showtoc = true
 tocopen = true
 [cover]
-image = ""
-alt = ""
+image = "/uploads/conversioncopy.png"
+alt = "Conversion Copywriting"
 
 +++
 
