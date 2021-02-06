@@ -4,7 +4,7 @@ title = "Monday.com Review 2021 + 4 Awesome Alternatives"
 date = "2021-02-05"
 description = "Monday.com is a work management tool for teams small and large. For teams of all sizes, this cutting-edge app has a solution for you."
 draft = false
-tags = ["productivity", "review"]
+tags = ["productivity", "reviews"]
 showtoc = true
 tocopen = true
 [cover]

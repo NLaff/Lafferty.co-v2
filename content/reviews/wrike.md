@@ -4,7 +4,7 @@ title = "Wrike Review 2021 + 4 Excellent Alternatives"
 date = "2021-02-05"
 description = "Wrike combines and eliminates dozens of other workflow tools to help you perform better in a fraction of the time."
 draft = false
-tags = ["productivity", "review"]
+tags = ["productivity", "reviews"]
 showtoc = true
 tocopen = true
 [cover]
