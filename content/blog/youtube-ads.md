@@ -75,7 +75,7 @@ Their Youtube ad is 14 seconds in length, and only 20% of users presented with t
 
 But despite that, it has been viewed over 4 million times and it has received over 21 million impressions.
 
-I watch a good amount of Youtube in my spare time. If you also watch Youtube, I bet you skip almost all of the ads you watch.
+How often do you skip Youtube ads? If you're like me then you skip almost all of them. 
 
 Youtube ads longer than 5 seconds in length can be skipped after that time period.
 

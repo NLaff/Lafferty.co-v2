@@ -5,7 +5,7 @@ tags = ["marketing"]
 title = "Setup Google Analytics Click Tracking in 5 Minutes"
 showtoc = true
 tocopen = true
-draft = true
+draft = false
 
 +++
 ## Overview
