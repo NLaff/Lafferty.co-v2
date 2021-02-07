@@ -158,7 +158,7 @@ If Monday was one of my competitors, my keywords would be:
 * Monday.com
 * Monday Project Management
 * Monday CRM
-* Monday Review
+* [Monday Review](/reviews/monday/)
 
 Once I have those root keywords, do the same auto-complete search for them to get other keyword ideas. 
 
