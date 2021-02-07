@@ -86,6 +86,8 @@ They were better in Bing Ads though, for what it's worth.
 
 ## Youtube Is Still A Hidden Gem
 
+Read my new post about how to [scale Youtube Ads to 1,000+ monthly conversions](/blog/youtube-ads/).
+
 Creating Youtube ads is hard. You need experience making videos, complex software with a steep learning curve, and more assets.
 
 You need audio, video, b-roll, animations. Or you pay an agency to make your videos. Or you use an out of the box provider that does all the hard work for you.
