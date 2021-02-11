@@ -3,7 +3,7 @@
 title = "How to Create and Scale a Youtube Ads Campaign"
 date = "2021-02-07"
 description = "Youtube ads are still a hidden advertising gem, if you know what you're doing. "
-draft = false
+draft = true
 tags = ["youtube", "marketing"]
 showToc = true
 TocOpen = true
