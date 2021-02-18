@@ -15,7 +15,7 @@ alt = "Supermetrics Review"
 +++
 I've managed digital marketing campaigns at multi-million dollar companies for over seven years. My side hustle is [Google Ads consulting](/consulting/) for SaaS companies. 
 
-Supermetrics is the first tool I recommend any company purchase for their digital marketing team, simply because it is the most valuable tool I have ever used.
+[Supermetrics](https://click.nicklafferty.com/supermetrics) is the first tool I recommend any company purchase for their digital marketing team, simply because it is the most valuable tool I have ever used.
 
 I first started using Supermetrics over 5 years ago, and I've been a constant subscriber ever since. 
 
@@ -30,7 +30,7 @@ Come along as I review my favorite digital marketing reporting tool.
 ## What is Supermetrics?
 ![Supermetrics](/uploads/supermetrics_home.png)
 
-Supermetrics allows even the most technologically averse marketers to move large amounts of data around.
+[Supermetrics](https://click.nicklafferty.com/supermetrics) allows even the most technologically averse marketers to move large amounts of data around.
 
 They have different products depending on the final destination of your data.
 * Google Sheets
@@ -43,6 +43,8 @@ The product I'm most familiar with is Google Sheets, as I prefer to have my data
 
 My most common use case of Supermetrics is to [build Google Ads dashboards](/blog/how-to-create-a-free-google-ads-dashboard-in-google-sheets/), but it can pull data from hundreds of sources.
 
+{{< button "https://click.nicklafferty.com/supermetrics" "Try Supermetrics Today" >}}
+
 ## Supermetrics Review
 
 Let me tell you a story. 
@@ -53,7 +55,7 @@ I needed to pull data out of Google Ads and combine it with our internal revenue
 
 Merging all that data with our in-house reporting tool, Qlikview, was going to be time-consuming, cumbersome, and complicated.
 
-Enter Supermetrics.
+Enter [Supermetrics](https://click.nicklafferty.com/supermetrics).
 
 I built custom queries to pull the performance data I needed from Google ads, namely Impressions, Clicks, and Conversions, on a daily basis. I stored it in a Google sheet.
 
@@ -100,7 +102,7 @@ I've used this feature to send Google Ads and MySQL data to a 3rd party bidding 
 
 This is the best option for digital marketing teams.
 
-The Google Sheets option for Supermetrics is a complete game changer, especially for performance marketing.
+The [Google Sheets option for Supermetrics](https://click.nicklafferty.com/supermetrics) is a complete game changer, especially for performance marketing.
 
 Pulling data out of Google Ads **sucks**. It's horrible, takes forever, and is never formatted how you want it.
 
@@ -215,7 +217,7 @@ I can't compare the tools because of that main difference.
 
 ## Wrapping Up
 
-Supermetrics is great, but is it worth $250/month?
+[Supermetrics is great](https://click.nicklafferty.com/supermetrics), but is it worth $250/month?
 
 If you work for a business that makes millions of dollars a year, yes.
 
@@ -229,5 +231,6 @@ It's just how it works.
 
 At $60/month it was a no-brainer back in 2017, and at $250/month in 2021 Supermetrics is still worth it.
 
+{{< button "https://click.nicklafferty.com/supermetrics" "Try Supermetrics Today" >}}
 
 

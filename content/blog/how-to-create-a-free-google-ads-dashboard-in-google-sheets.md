@@ -54,6 +54,8 @@ The list of connections available through Supermetrics is staggering:
 
 It's essentially a SQL query for whatever data source you want.
 
+[Read my full Supermetrics review here](/reviews/supermetrics/)
+
 The specific tool I use is [Supermetrics for Google Sheets](https://affiliate.supermetrics.com/2679-3-3-5.html), which dumps the data you want into a Google sheet.
 
 They have products for other tools as well:
