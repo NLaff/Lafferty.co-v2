@@ -136,6 +136,7 @@ Scheduled emailing lets me send my reports and data to any email address I want.
 It also lets me send that data anywhere, including 3rd party bid software like Kenshoo, Marin, and Quantic Mind. 
 
 ### Supermetrics For Excel
+
 ![Supermetrics Excel](/uploads/supermetrics_excel.png)
 
 Supermetrics for Microsoft Excel is similar to the Google Sheets product, except you have to use Excel. 
@@ -162,7 +163,9 @@ It's a fine product if you're in Excel all day.
 3. Improvado - Bespoke, custom plans only
 
 ### Supermetrics vs Funnel.io
+
 ![Supermetrics vs Funnel.io](/uploads/funnel-io.png)
+
 Funnel is **vastly** more expensive than Supermetrics.
 
 For the average digital marketer, Funnel is the inferior option. It's meant more for data teams to shovel very large amounts of data around.
@@ -178,7 +181,9 @@ Those things are not important to digital marketers. They're important to teams 
 **Winner:** Supermetrics
 
 ### Supermetrics vs Windsor.ai
+
 ![Supermetrics vs Windsor.ai](/uploads/windsor.png)
+
 Windor.ai is the most competitively priced Supermetrics alternative.
 
 It even has a free tier that lets you run one report, connect to two data sources, and pull 500,000 rows of data. 
@@ -205,7 +210,9 @@ Given that main limitation, I would still choose Supermetrics.
 **Winner:** Supermetrics
 
 ### Supermetrics vs Improvado
+
 ![Supermetrics vs Improvado](/uploads/improvado.png)
+
 Like Funnel, Improvado isn't for marketers.
 
 Their pricing page is a lead form. There's no self-service option.

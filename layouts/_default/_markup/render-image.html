@@ -1,5 +1,6 @@
 {{- if strings.HasPrefix .Destination "http" -}}
   <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} />
 {{- else -}}
-  <img loading="lazy" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-height:500px;" {{ with .Title}} title="{{ . }}" {{ end }} {{ with imageConfig ( printf "/static/%s" .Destination ) }} {{ end }} />
+  <img loading="lazy" class="shadowed" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" style="max-height:500px; -webkit-filter: drop-shadow(5px 5px 5px #222);
+  filter: drop-shadow(5px 5px 5px #222);" {{ with .Title}} title="{{ . }}" {{ end }} {{ with imageConfig ( printf "/static/%s" .Destination ) }} {{ end }} />
 {{- end -}}

@@ -71,7 +71,7 @@ home = [ "HTML", "RSS", "JSON" ]
 	ShowReadingTime = true
 	ShowShareButtons = false
 	comments = false
-	defaultTheme = "dark"
+	defaultTheme = "light"
 	disableThemeToggle = true
 	disableSpecial1stPost = false
 

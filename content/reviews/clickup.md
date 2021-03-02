@@ -17,7 +17,7 @@ alt = "ClickUp Review"
 +++
 ## What is ClickUp?
 
-ClickUphttps://click.nicklafferty.com/clickup is [project management software](/reviews/free-project-management-tools/) that aims to combine everything into one: tasks, docs, chat, goals, and more. 
+ClickUp is [project management software](/reviews/free-project-management-tools/) that aims to combine everything into one: tasks, docs, chat, goals, and more. 
 
 ClickUp has 100+ employees based out of San Diego, California. They raised $100M in a Series B funding round in December 2020. 
 
