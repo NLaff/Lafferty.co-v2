@@ -109,7 +109,7 @@ There is no free landing page builder. If you want an easy to use and feature ri
 
 How much you shell out depends on what tool you select. Prices vary from $37/month to $199/month.
 
-Scroll down to compare [Unbounce](https://click.nicklafferty.com/unbounce), [Instapage](https://click.nicklafferty.com/instapage), and [Leadpages](https://leadpages.com). 
+Scroll down to compare [Unbounce](https://click.nicklafferty.com/unbounce), [Instapage](https://click.nicklafferty.com/instapage), and [Leadpages](https://click.nicklafferty.com/leadpages). 
 
 ### Unbounce Review
 ![Unbounce Logo](/uploads/unbounce-identity-gray.png)
