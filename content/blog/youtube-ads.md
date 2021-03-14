@@ -3,15 +3,18 @@
 title = "How to Create and Scale a Youtube Ads Campaign"
 date = "2021-02-07"
 description = "Youtube ads are still a hidden advertising gem, if you know what you're doing. "
-draft = true
+draft = false
 tags = ["youtube", "marketing"]
 showToc = true
 TocOpen = true
+canonicalURL = "https://www.growthmentor.com/blog/create-youtube-ads-campaign/"
 [cover]
 image = "/uploads/youtubeads.png"
 alt = "How To Create A Youtube Ad"
 
 +++
+*This article first appeared on GrowthMentor*.
+
 Have you seen those Youtube ads about how to make money online?
 
 > "Youtube ads beat Facebook ads every time. Let's face it..."
