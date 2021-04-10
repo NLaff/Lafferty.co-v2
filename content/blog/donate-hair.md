@@ -8,7 +8,7 @@ tags = ["hair"]
 showtoc = true
 tocopen = true
 [cover]
-image = ""
+image = "/uploads/donate_hair.png"
 alt = "How To Donate Hair"
 
 +++
@@ -27,11 +27,11 @@ The process is really simple, so I wanted to write about it.
 ![Curly Hair Before Donation](/uploads/curly_hair.png)
 1. Straighten your hair, if it's curly.
 ![Straight Hair Before Donation](/uploads/straight_hair.png)
-2. Put hair into pigtails measuring at least 12 inches
+2. Put hair into braids measuring at least 12 inches
 ![Pig Tails Hair Donation](/uploads/pigtails.png)
 3. Place a hair tie at the bottom and top of your measured section, to hold the hair together.
 ![Hair Donation Ponytail](/uploads/cut_pigtails.png)
-4. Cut the pig tails off.
+4. Cut the braids off.
 5. Place hair in a ziplock bag and mail it to the charity of your choice. 
 6. Celebrate!
 ![Nick Lafferty](/uploads/nicklafferty.png)
@@ -76,7 +76,7 @@ I had a lot of questions as I was researching how to best cut my hair for donati
 Many charities ask for at least 12 inches of length. Some, like Children With Hair Loss, ask for at least 8 inches. The longer the better as it allows them to make longer wigs. 
 
 ### How to cut hair for donation?
-Hair needs to be bound together, either in pig tails or with hair ties every two inches. Hair should be at least 12 inches long, with hair ties at the beginning and end of the section to hold it together. 
+Hair needs to be bound together, either in braids or with hair ties every two inches. Hair should be at least 12 inches long, with hair ties at the beginning and end of the section to hold it together. 
 
 ### Can men donate hair?
 Yes, as long as it's well-kept and there's at least 12 inches to donate.
