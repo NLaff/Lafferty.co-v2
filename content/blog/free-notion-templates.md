@@ -3,7 +3,7 @@ date = "2021-01-09"
 description = "Free Notion templates for students, personal finance, work, productivity, and more"
 tags = ["notion"]
 title = "32 Beautiful & Free Notion Templates"
-lastmod = "2021-01-24"
+lastmod = "2021-05-12"
 showtoc = true
 tocopen = true
 draft = false
@@ -16,7 +16,7 @@ The [Notion template gallery](https://www.notion.so/Notion-Template-Gallery-181e
 
 I've created a list of templates for students, personal finance, work, productivity, and more. Each is categorized by section with a free download link and proper attribution to the creator. 
 
-Make sure to check out [my list of the best productivity tools of 2021.](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/)
+Make sure to check out my list of the [best productivity tools of 2021](https://nicklafferty.com/blog/why-notion-is-the-best-productivity-app-of-2020/).
 
 ## Notion Templates For Students
 
