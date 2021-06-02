@@ -7,7 +7,7 @@ showtoc = true
 tocopen = true
 draft = false
 [cover]
-image = ""
+image = "/uploads/optimizely_header.png"
 alt = "Optimizely Review"
 
 +++
