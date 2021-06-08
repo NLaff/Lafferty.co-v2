@@ -11,8 +11,6 @@ image = "/uploads/optimizely_header.png"
 alt = "Optimizely Review"
 
 +++
-
-## Review Summary
 Optimizely is the best website a/b testing tool I've used in my career so far. It's also the most expensive.
 
 Want the full story? Keep reading. 
