@@ -8,7 +8,7 @@ tocopen = true
 draft = false
 affiliate = true
 [cover]
-image = ""
+image = "/uploads/dasthis_banner.png"
 alt = "DashThis Review"
 
 +++
