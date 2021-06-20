@@ -34,7 +34,7 @@ I only write reviews for software I have personally used.
 ## Why should you trust me?
 I've been freelancing for the last two years, and to be honest it kind of fell into my lap.
 
-I wrote an article about [Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/), it hit the [HackerNews frontpage](https://nicklafferty.com/blog/what-happens-when-you-re-on-the-front-page-of-hacker-news/), and companies started asking if could help them.
+I wrote an article about [Google Ads](https://nicklafferty.com/blog/i-spent-6-million-on-google-ads-last-year-here-s-what-i-learned/), it hit the [HackerNews frontpage](https://nicklafferty.com/blog/what-happens-when-you-re-on-the-front-page-of-hacker-news/), and companies emailed me asking if I could help them.
 
 So I said yes.
 
@@ -44,7 +44,7 @@ I called a buddy of mine and he gave me some tips on how set my prices, but ever
 
 My first client asked if I had a standard contract to use. I didn't, but I said yes to make it seem like I knew what I was doing.
 
-I had to find a standard contract, so I googled it. 
+I had to find a standard contract, so I Googled it. 
 
 When it was time to get paid, which is the best part of freelancing, I had to figure that out too.
 
@@ -57,7 +57,7 @@ I'll tell you all about it right now, so keep scrolling.
 
 It makes the shitty parts of freelancing easy, so you can get back to doing what your clients are paying you to do.
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 ## Hello Bonsai Features
 * Proposals
@@ -85,7 +85,7 @@ Bonsai tracks their approval automatically.
 
 ![Bonsai PPC Proposal Template](/uploads/bonsai_ppc_proposal_example.png)
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 ### Contracts
 Contracts are boring but are critical to running a successful freelance business. Contracts are legally binding documents that your clients sign when they commit to hiring, and paying, you for your services. 
@@ -119,7 +119,7 @@ Then you enter your rates. It could be a flat fee, hourly, per word, per day, or
 ![Bonsai Contract Step 4](/uploads/bonsai_contract_step4.png)
 Lastly you can choose to automatically create invoices and send them when they're due, or to do it manually. Personally I prefer to do this manually to make sure the invoice is accurate. 
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 ### Time Tracking
 If you have time-based billing, or just want to measure exactly how much time you spend working for each client, then you should track your time.
@@ -136,7 +136,7 @@ You can also add hours manually if you track them a different way.
 
 ![Bonsai Manual Time Tracking](/uploads/bonsai_manual_timetracking.png)
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 ### Invoices
 The best part about freelancing is getting paid. Seeing that money hit my bank account feels amazing every time.
@@ -159,7 +159,7 @@ You can edit hours, provide discounts, add taxes, and include attachments on the
 
 Invoices can be scheduled to send automatically, or you can send them manually when you're ready. 
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 ### Taxes
 If invoices are the best part about freelancing then taxes are definitely the worst part. 
@@ -184,7 +184,7 @@ There are also accounting features where you can link bank accounts and credit c
 
 By connecting a credit card Bonsai will start categorizing your expenses and calculate how much taxes you'll save. You can recategorize them if it gets it wrong, but it's a nice timesaving feature if you have recurring expenses every month. 
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
 
 ## Hello Bonsai Pricing
@@ -224,4 +224,4 @@ $30/month to save me time and headache of doing these tasks manually is complete
 
 Give it a shot yourself. They have a free 14 day trial.
 
-{{< button "Try Bonsai For Free" "https://click.nicklafferty.com/bonsai" >}}
+{{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
