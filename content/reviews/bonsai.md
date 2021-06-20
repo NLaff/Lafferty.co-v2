@@ -117,6 +117,7 @@ Then you enter your rates. It could be a flat fee, hourly, per word, per day, or
 ![Bonsai Contract Payment Options](/uploads/bonsai_contract_payment.png)
 
 ![Bonsai Contract Step 4](/uploads/bonsai_contract_step4.png)
+
 Lastly you can choose to automatically create invoices and send them when they're due, or to do it manually. Personally I prefer to do this manually to make sure the invoice is accurate. 
 
 {{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
@@ -186,9 +187,9 @@ By connecting a credit card Bonsai will start categorizing your expenses and cal
 
 {{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
-
 ## Hello Bonsai Pricing
 ![Bonsai Pricing](/uploads/bonsai_pricing.png)
+
 Pricing is straightforward.
 
 $19/month for the basic package, and $29/month for more advanced features. 
