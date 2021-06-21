@@ -1,5 +1,6 @@
 +++
 date = "2021-06-03"
+lastmod = "2021-06-21"
 description = "Osano is the caddilac of cookie management providers. Read my experience after purchasing Osano."
 tags = ["reviews", "cookies"]
 title = "Osano Review | Consent Management Software [2021 Review]"
@@ -12,7 +13,7 @@ alt = "Osano Review"
 
 +++
 
-[Osano](https://www.osano.com) is a consent management platform, also known as a cookie management software, and in my opinion it's the cadillac of cookie managers.
+[Osano](https://click.nicklafferty.com/osano) is a consent management platform, also known as a cookie management software, and in my opinion it's the cadillac of cookie managers.
 
 I've had horrendous experience with other consent platforms and Osano is truly a breath of fresh air. 
 
@@ -47,6 +48,8 @@ This created a new set of tools called consent management providers that build a
 
 Tools like Osano store consent for you, so in the case of a legal dispute you can call your consent vendor to retreive the user's consent on your behalf. 
 
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
+
 ## What is data privacy?
 Data privacy is a form of data security for managing consent, regulatory compliance(like GDPR), and notices about how data is stored and shared with third parties.
 
@@ -64,6 +67,8 @@ In contrast, public benefit corporations seek to maximize public benefit. In fac
 Osano's mission is to **put people before profits to increase data transparency.**
 
 Data privacy will define how the internet evolves over the next decade and technology like Osano plays a major part in that. 
+
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
 
 ### Osano vs OneTrust
 OneTrust is the biggest player in the consent management space. They were one of the first to market, and they have an impressive roster of current customers:
@@ -88,6 +93,8 @@ It's honestly super unclear what you need, and the pricing page is entirely self
 Ok, buying it sucks. What about using it?
 
 Let me tell you a story. 
+
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
 
 ### A OneTrust Horror Story
 
@@ -126,6 +133,8 @@ I was blocked by some shitty tool.
 We never resolved our issue with OneTrust and eventually I got the greenlight to start shopping for new tools.
 
 And that's how I found Osano. 
+
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
 
 ### Osano Pricing
 ![Osano Pricing](/uploads/osano_pricing.png)
@@ -187,6 +196,8 @@ My legal team loves it because it automates part of their job.
 
 Osano also sends out a weekly privacy newsletter so they can stay on top of the latest legal changes to data privacy around the world, curated by their in-house team of attorneys. Again, super useful for my legal team. 
 
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
+
 ## Why are cookies important?
 I'm a professional digital marketer. I get paid to increase the amount of people that visit a website each month and make a purchase. 
 
@@ -226,6 +237,8 @@ I was powerless to do anything about it, and I lived in cookie policy hell.
 
 Eventually we found updated GDPR guidlines that said you can make anonymous analytics tools opt-out by default
 
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
+
 ## Conclusion
 
 [Osano](https://www.osano.com) is a great piece of software for managing user consent. It's truly the cadillac of consent management platforms and it's only getting better over time.
@@ -234,4 +247,4 @@ Their support team is knowledgeable and responds to my questions in record time.
 
 Give Osano a try today and tell them Nick Lafferty sent you. 
 
-{{< button "https://www.osano.com/" "Try Osano Today" >}}
+{{< button "https://click.nicklafferty.com/osano" "Try Osano For Free" >}}
