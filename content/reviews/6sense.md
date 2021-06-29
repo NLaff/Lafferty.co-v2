@@ -195,7 +195,7 @@ Two more screenshots before I wrap up the campaigns section. One shows which job
 ### 6sense Pricing
 6sense is an enterprise software tool and priced accordingly.
 
-If you are seriously shopping for 6sense, [send me an email](mailto:nick@lafferty.co) and I can make a personal intro to their team and likely get you a discount. 
+If you are seriously shopping for 6sense, [send me an email](mailto:nick@lafferty.co) and I can make a personal intro to their team. 
 
 Enterprise software starts around $30k/year but expect to pay more for a premium tool like 6sense. The predictive model is an additional price. 
 
