@@ -1,6 +1,7 @@
 +++
 date = "2021-06-19"
-description = ""
+lastmod = "2021-06-29"
+description = "Bonsai helps freelancers manage their proposals, contracts, invoices, and taxes. "
 tags = ["reviews", "bonsai"]
 title = "Bonsai Review | Freelance Management Software [2021 Review]"
 showtoc = true
@@ -19,7 +20,7 @@ How do you write your first contract? And most importantly, how do you get paid?
 
 Luckily, tons of software exist to make this problem easier. But some software is better than others. 
 
-I've been freelancing for the last two years, on top of working a normal day job, and I've tried a bunch of different software options. 
+I've been freelancing for the last two years, on top of working a normal day job, and I've tried a bunch of different software to manage my freelance business. 
 
 I currently use [Bonsai](https://click.nicklafferty.com/bonsai) and it's completely leveled up my freelance game.
 
