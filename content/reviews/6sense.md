@@ -39,14 +39,16 @@ If that changes I'll update this disclosure.
 
 I only review software I've personally used. 
 
-## What is Account-Based Marketing(ABM)?
+## Common Questions
+
+### What is Account-Based Marketing(ABM)?
 ABM is a form of organizing, identifying, marketing, and selling to specific companies that you want to use your product. These companies are not using your product today, but based on your research you think they would be a good fit. 
 
 It's a label that is applied to specific, often small-scale, marketing efforts.
 
 ABM is popular in the SaaS space, as businesses want to sell into large Enterprise accounts that would generate significant revenue for the business. 
 
-## ABM Platforms
+### What are other ABM Platforms?
 ABM in 2021 is often powered by a digital platform, of which there are many:
 * 6sense
 * Terminus
@@ -55,6 +57,15 @@ ABM in 2021 is often powered by a digital platform, of which there are many:
 * Metadata.io
 
 These platforms all come at a steep cost, which I'll cover in a below section. If you're not a multi-million dollar company then ABM software is likely out of your price range. 
+
+### What is 6sense used for?
+6sense is used to identify, segment, and advertise to key accounts that you want to sell into. It is account-based marketing software powered by artificial intelligence. 6sense's core product builds a predictive model to identify accounts in a buying stage, based on traffic data to your website and their network of b2b partners, and enables you to advertise to them. 
+
+### How accurate is 6sense?
+![6sense Accuracy](/uploads/6sense_accuracy.png)
+In my testing 6sense matched almost 60% of accounts visiting my websites, which is industry-leading. In head-to-head testing 6sense matches over 30% more accounts than Terminus. 
+
+The above screenshot is from my 6sense account with data from April and May 2021, showing a match rate of 58%.
 
 ## 6sense Review
 ![6sense homepage screenshot](/uploads/6sense_homepage.png)
@@ -81,18 +92,9 @@ Terminus didn't help us find more new accounts to target, it would've helped us 
 
 Ultimately 6sense opened more doors for both the marketing and the sales teams.
 
-First I'll cover some common 6sense questions, then I'll review 6sense's features, pricing, and some alternatives.
+Let's get started by reviewing 6sense's features.
 
-## What is 6sense used for?
-6sense is used to identify, segment, and advertise to key accounts that you want to sell into. It is account-based marketing software powered by artificial intelligence. 6sense's core product builds a predictive model to identify accounts in a buying stage, based on traffic data to your website and their network of b2b partners, and enables you to advertise to them. 
-
-## How accurate is 6sense?
-![6sense Accuracy](/uploads/6sense_accuracy.png)
-In my testing 6sense matched almost 60% of accounts visiting my websites, which is industry-leading. In head-to-head testing 6sense matches over 30% more accounts than Terminus. 
-
-The above screenshot is from my 6sense account with data from April and May 2021, showing a match rate of 58%.
-
-## 6Sense Features
+### 6Sense Features
 ![6sense Dashboard](/uploads/6sense_accountgraph.png)
 The 6sense platform has several main sections:
 * Segments
@@ -111,7 +113,7 @@ The above screenshot from their website does a good job giving an overview of 6s
 
 I'll cover the two most used features in more detail below: Segments and Campaigns.
 
-### Segments
+#### Segments
 Everything in 6sense starts with a segment. A segment is a group with shared attributes that you define. 
 
 Here are some example segments:
@@ -153,7 +155,7 @@ You can also view the amount of website activities by day for any specific segme
 
 Building segments is the first step to using 6sense. Once they're built you can target them with campaigns.
 
-### Campaigns
+#### Campaigns
 ![6sense Campaign Details](/uploads/6sense_campaign_details.png)
 There are also three types of Campaigns you can build:
 1. Display
@@ -186,7 +188,7 @@ Two more screenshots before I wrap up the campaigns section. One shows which job
 
 ![6sense Campaign Distribution](/uploads/6sense_campaign_distribution.png) 
 
-## 6sense Pricing
+### 6sense Pricing
 6sense is an enterprise software tool and priced accordingly.
 
 If you are seriously shopping for 6sense, [send me an email](mailto:nick@lafferty.co) and I can make a personal intro to their team and likely get you a discount. 
@@ -194,11 +196,11 @@ If you are seriously shopping for 6sense, [send me an email](mailto:nick@laffert
 Enterprise software starts around $30k/year but expect to pay more for a premium tool like 6sense. The predictive model is an additional price. 
 
 
-## 6sense Alternatives
+### 6sense Alternatives
 1. Terminus
 2. Triblio
 3. Demandbase
 4. Metadata.io
 
 ## Wrapping Up
-We're only 2 months into our contract with 6sense but the early results are promising. I purposely avoided publishing specific conversion and revenue numbers in this article because I don't want to give anything away. But 6sense is working for our business, and I would recommend it to other companies.
+We're only 2 months into our contract with [6sense](https://click.nicklafferty.com/6sense) but the early results are promising. I purposely avoided publishing specific conversion and revenue numbers in this article because I don't want to give anything away. But 6sense is working for our business, and I would recommend it to other companies.
