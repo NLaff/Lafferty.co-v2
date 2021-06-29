@@ -172,7 +172,7 @@ The below screenshot shows the different types of campaigns that we've been spen
 
 Once a campaign has been live there are additional statistics you can view. Things like impressions and clicks, but also things like influenced form fills.
 
-![6sense Campaign Statistics](/uploads.6sense_campaign_stats.png)
+![6sense Campaign Statistics](/uploads/6sense_campaign_stats.png)
 
 Scrolling down that page are even more stats. Impressions by day and by hour.
 
