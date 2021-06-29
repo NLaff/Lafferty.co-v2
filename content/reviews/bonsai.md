@@ -54,14 +54,14 @@ Tens of thousands of dollars in freelance income later and I've kind of figured 
 
 I'll tell you all about it right now, so keep scrolling. 
 
-## What is Hello Bonsai?
+## What is Bonsai?
 [Bonsai](https://click.nicklafferty.com/bonsai) is an all-in-one suite of tools to manage your freelance business. From proposals, to contracts, invoices, expenses, time tracking, and even taxes, Bonsai manages it all. 
 
 It makes the shitty parts of freelancing easy, so you can get back to doing what your clients are paying you to do.
 
 {{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
-## Hello Bonsai Features
+## Bonsai Features
 * Proposals
 * Contracts
 * Time Tracking
@@ -189,7 +189,7 @@ By connecting a credit card Bonsai will start categorizing your expenses and cal
 
 {{< button "https://click.nicklafferty.com/bonsai" "Try Bonsai For Free" >}}
 
-## Hello Bonsai Pricing
+## Bonsai Pricing
 ![Bonsai Pricing](/uploads/bonsai_pricing.png)
 
 Pricing is straightforward.
@@ -212,7 +212,7 @@ $9/month per partner added to the account, and $10/month to enable their taxes a
 
 I'm a solo freelancer so I haven't added a partner to my account but I have used the tax features. I covered them in the previous section. 
 
-## Hello Bonsai Alternatives 
+## Bonsai Alternatives 
 1. [Freshbooks](https://www.freshbooks.com/)
 2. [Quickbooks](https://quickbooks.intuit.com/)
 3. [Wave](https://www.waveapps.com/)
