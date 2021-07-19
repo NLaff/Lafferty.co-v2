@@ -41,6 +41,13 @@ pygmentsUseClasses = true
 		weight = 10
 
 	[[menu.main]]
+		identifier = "recipies"
+		name = "recipies"
+		url = "/recipies/"
+		weight = 15
+
+
+	[[menu.main]]
 		identifier = "search"
 		name = "search"
 		url = "/search/"
