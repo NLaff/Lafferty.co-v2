@@ -34,11 +34,11 @@ pygmentsUseClasses = true
 	#	weight = 2
 	#	identifier = "consulting"
 
-	[[menu.main]]
-		identifier = "reviews"
-		name = "reviews"
-		url = "/reviews/"
-		weight = 10
+	# [[menu.main]]
+	#	identifier = "reviews"
+	#	name = "reviews"
+	#	url = "/reviews/"
+	#	weight = 10
 
 	[[menu.main]]
 		identifier = "recipies"
