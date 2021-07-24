@@ -138,7 +138,7 @@ Small companies might not consider this, but for large senders they place a lot 
 
 {{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
 
-## Are they a one-stop shop?
+### Are they a one-stop shop?
 
 ![Mailgun Statistics](/uploads/mailgun_statistics_beta.png)
 
