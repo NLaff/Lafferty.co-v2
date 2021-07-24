@@ -6,14 +6,14 @@ title = "Mailgun by Pathwire Review | A Leading Email Provider"
 showtoc = true
 tocopen = true
 affiliate = false
-draft = true
+draft = false
 [cover]
-image = ""
+image = "/uploads/mailgun_review.png"
 alt = "Mailgun Review"
 
 +++
 
-There are tons of email service providers on the market today. Sendgrid, Mailchimp, Mailgun, Sendinblue, the list goes on. 
+There are tons of email service providers on the market today. Sendgrid, Mailchimp, [Mailgun](https://click.nicklafferty.com/mailgun), Sendinblue, the list goes on. 
 
 As with many highly competitive industries, there's a tendency for companies to sprint towards feature parity. Over time the differences between the companies become meaningless because they all offer many of the same products:
 * Email API
@@ -23,14 +23,12 @@ As with many highly competitive industries, there's a tendency for companies to 
 
 But email is a very old technology, and email platforms have to maintain positive reputations with inbox providers like Gmail and Yahoo, otherwise all of their client's email could land in the spam folder. 
 
-Mailgun, and other email providers, has direct contacts at the inbox providers and DBL's (domain black listings) like Spamhaus, to manage their reputation. They also own large amounts of dedicated IP addresses -- customers sending over 500,000 emails/month often want one, or many, dedicated IP's to be in control of their individual email reputation. 
-
 There's a lot that goes into running an email service provider like Mailgun. I'll tell you why I think Mailgun is doing a lot of things right, and if you're considering one you should give them a shot. 
 
 ## Why trust me? 
 I worked at Mailgun for two years as they grew from roughly $50 million/year in revenue to $100 million/year. They acquired two companies while I was there, Mailjet and Email On Acid.
 
-I helped manage Mailgun's website, SEO, and PPC campaigns. I wrote the onboarding emails every new Mailgun user received, and I also helped manage the development of their new Pathwire website.
+I helped manage Mailgun's website, SEO, and PPC campaigns. I wrote the onboarding emails every new Mailgun user received, and I also helped manage the development of their new [Pathwire](https://www.pathwire.com) website.
 
 I've since taken another job but my experience leading Mailgun's growth marketing team gives me a unique perspective to review their product. 
 
@@ -44,19 +42,26 @@ If that changes I will update this disclosure.
 I only review software I've personally used. 
  
 ## What Is Mailgun?
-Mailgun is a leading provider of email API, validation, and deliverability services. They send over 20 billion emails/month for brands like Lyft, Substack, Pinterest, and more. 
 
-Yes, every email sent through Substack is actually routed and sent through Mailgun. The infrastructure required to send billions of emails every month is highly complicated.
+![Mailgun Homepage Screenshot](/uploads/mailgun_website.png)
+
+[Mailgun](https://click.nicklafferty.com/mailgun) is a leading provider of email API, validation, and deliverability services. They send over 20 billion emails/month for brands like Lyft, Substack, Pinterest, and more. 
+
+Every email sent through Substack is actually routed and sent through Mailgun. The infrastructure required to send billions of emails every month is highly complicated and many companies choose to use a provider like Mailgun to do the actual sending of emails.
 
 Companies like Intercom, Klaviyo, and Iterable also don't manage their own email servers. In Iterable's case they have a few partners, but all of Intercom and Klaviyo's email is sent through Sendgrid.
 
 Mailgun's corporate structure reorganized under a new brand called Pathwire. This year Mailgun, Mailjet, and Email on Acid will be rolled into the new Pathwire brand. 
 
-I believe there will continue to be market consolidation, through M&A activity, and the market for email providers will coalesce around a few large providers.
+I believe there will continue to be market consolidation, through M&A activity, and the market for email providers will group around a few large providers.
 
 New start-ups won't be able to compete for features and infrastructure because the Mailgun, Sendgrids, and Mailchimps of the world will have a huge head start.
 
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
 ## Mailgun Review
+
+![Mailgun Dashboard Screenshot](/uploads/mailgun_dashboard.png)
 When reviewing email platforms there are several things to look at:
 1. How good is their support?
 2. Are their features mature?
@@ -82,7 +87,12 @@ But Mailgun can help troubleshoot account problems, get you setup with a dedicat
 
 I'd give Mailgun's support high marks on the whole. No support team is perfect and there will always be negative one-off incidents, but overall they have really fantastic support and their executive leadership team continues to invest in support as a competitive differentiator. 
 
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
 ### Are Mailgun's features mature? 
+
+![Mailgun Sending Overview](/uploads/mailgun_sending_overview.png)
+
 Mailgun was one of the earliest cloud-first email providers. Sendgrid and Sparkpost, their two closest competitors in terms of product-fit and email volume, both have on-premise email servers as well as some cloud infrastructure.
 
 Currently Mailgun's infrastructure is hosted on AWS but they could also move to GCP or Azure for added reliability.
@@ -100,6 +110,8 @@ Mailgun's validations are also very fast. They have the fastest validation respo
 You can hit Mailgun's validation API from your webforms, to validate email addresses in real time as user's submit your form. Response time is important so your users don't bounce waiting for the form to complete validation.
 
 A large social network uses Mailgun in their user signup flow, and if it's fast enough for them, it's fast enough for any other company in the world. 
+
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
 
 ### How long have they been in business?
 Imagine you're sending 50 million emails/month, and your email provider suddenly announces they're going out of business.
@@ -124,7 +136,12 @@ Mailgun didn't have to do layoffs or initiate paycuts during the height of the C
 
 Small companies might not consider this, but for large senders they place a lot of importance in the stability of their email provider.
 
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
 ## Are they a one-stop shop?
+
+![Mailgun Statistics](/uploads/mailgun_statistics_beta.png)
+
 There are probably 50 email service providers to choose from. How do you pick one? 
 
 I recommend choosing one that does more than just sending email. Key features to look for are:
@@ -153,13 +170,33 @@ That contractual commitment is partly because you as an email sender need to inv
 
 Sending good email is a lot like writing good content. There are no hacks to become a NYT bestselling writer overnight, just like fixing your email deliverability can't happen overnight either. 
 
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
+## Mailgun Features
+
+![Mailgun Inbox Preview](/uploads/mailgun_inboxpreview.png)
+
+1. Email API & SMTP Relay
+2. Email Routes & Forwarding
+3. Email Templates
+4. Inbox Placement
+5. Send Time Optimization
+6. Webhooks, Analytics, and Logs
+7. Shared & Dedicated IP Addresses
+8. Mailing Lists
+
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
 ## Mailgun Competitors
+
 1. Sendgrid (owned by Twilio)
 2. Sparkpost (owned by MessageBird)
 3. Sendinblue
 4. Mailchimp
 5. Postmark
 6. CampaignMonitor
+
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
 
 I could write a whole article about how each of the companies listed above has key differences from Mailgun. They all have unique features and positioning in the market. 
 
@@ -186,9 +223,13 @@ For support, Mailgun has better Support. Sendgrid's support times are very long,
 
 I would choose Mailgun over Sendgrid every time, but I am clearly biased here because not only did I used to work at Mailgun, I spent two years competing against Sendgrid.
 
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
+
 ## Wrapping Up
 My 2 years working at Mailgun give me a unique perspective to review their product. I no longer work there so I feel like i can provide a relatively unbiased review of their product and systems. 
 
 I'm a big fan of their product, it's why I wanted to work there in the first place, and I think they have a really big future ahead of then. They will quickly grow to sending billions of emails a day, and will hit $200+ million in revenue very fast. 
 
 I'd recommend Mailgun to every company looking for a reliable and robust email service provider. 
+
+{{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
