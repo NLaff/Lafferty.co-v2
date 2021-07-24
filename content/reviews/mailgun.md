@@ -62,6 +62,7 @@ New start-ups won't be able to compete for features and infrastructure because t
 ## Mailgun Review
 
 ![Mailgun Dashboard Screenshot](/uploads/mailgun_dashboard.png)
+
 When reviewing email platforms there are several things to look at:
 1. How good is their support?
 2. Are their features mature?
