@@ -2,7 +2,7 @@
 
 title = "7 Best Email Clients For Mac & Windows"
 date = "2021-01-24"
-lastmod = "2021-01-25"
+lastmod = "2021-08-04"
 description = "Investing in a good email client can make you more productive. See how Superhuman, Mailbird, eM Client, and more compare. "
 draft = false
 tags = ["email", "reviews"]
@@ -328,20 +328,28 @@ Not every email client made my initial list. Here's a few others that look reall
 ![Spike Email App](/uploads/spike.png)
 Spike is a conversational and collaborative email client. It's design is much more like a text conversation than your traditional email client. Spike takes an old school technology like email and brings it into the modern era with tasks and collaborative notes. 
 
-Spike is cross-platform and supports both Macs and PCs
+Using Spike truly feels much more conversational. The entire design and UI changes how you communicate with people and makes using common email cliches of "Hi <Name>, hope you are well!" feel awkward and unnecessary.
+
+Spike has recently added new features, like the ability to send voice messages over email and fully integrated video calls. Spike is transforming into a collaborative communication platform that goes beyond just sending emails.
+
+Spike is cross-platform and supports both Macs, PCs, iOS, and Android.
 
 #### Pricing
 ![Spike Pricing](/uploads/spikepricing.png)
 
 Spike has a competitive free tier that includes up to 15k message history and 5gb of storage. Plenty for the average user to get a feel for using it.
 
-Upgrading to $4/month gets you unlimited messaging history, 50gb of storage, and a whole lot more. 
+Upgrading to $15/month gets you unlimited messaging history, 50gb of storage, access to priority support, and the ability to start a video call with up to 10 people. Perfect for the email power user. 
 
-Bumping that price to $6/month moves you into the business tier, which doubles your storage to 100gb and allows unlimited groups.
+The next tier is for Teams which requires a minimum of 2 seats which cost $10/month each. This tier gives you almost unlimited everything with video calls limited to 50 people. Message storage is also increased to 100GB. 
+
+Lastly their business tier is best suited for larger organizations trying to roll Spike out to entire business units. Pricing there starts at $7/month billed annually and includes a dedicated account manager.
 
 
 #### Features
 * Conversational email (more like a text than an email)
+* Video Meetings
+* Voice messages
 * Collaborative notes & tasks
 * Group chat
 * Advanced search

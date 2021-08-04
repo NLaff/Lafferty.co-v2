@@ -1,6 +1,6 @@
 +++
 date = "2021-07-23"
-description = "Mailgun is an email service provider that sends 20+ billion emails/month. Mailgun powers some of the world's leading communication tools."
+description = "Mailgun is an email service provider that sends 20+ billion emails/month and powers some of the world's leading communication tools."
 tags = ["reviews", "email"]
 title = "Mailgun by Pathwire Review | A Leading Email Provider"
 showtoc = true
@@ -185,6 +185,8 @@ Sending good email is a lot like writing good content. There are no hacks to bec
 6. Webhooks, Analytics, and Logs
 7. Shared & Dedicated IP Addresses
 8. Mailing Lists
+10. Email Deliverability Services
+11. Rapid Fire Burst Sending
 
 {{< button "https://click.nicklafferty.com/mailgun" "Try Mailgun Today" >}}
 
