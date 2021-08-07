@@ -114,7 +114,7 @@ Then you define the specific services you're providing for your client. In my ca
 
 ![Bonsai Contract Step 3](/uploads/bonsai_contract_step3.png)
 
-Then you enter your rates. It could be a flat fee, hourly, per word, per day, or many other options. You can also define a depoist, recommended for new clients without prior good payment history, and if there is a late fee or not. 
+Then you enter your rates. It could be a flat fee, hourly, per word, per day, or many other options. You can also define a deposit, recommended for new clients without prior good payment history, and if there is a late fee or not. 
 
 ![Bonsai Contract Payment Options](/uploads/bonsai_contract_payment.png)
 
