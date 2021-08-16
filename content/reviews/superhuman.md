@@ -14,8 +14,6 @@ alt = "Superhuman Review"
 
 +++
 
-{{< ad "https://www.spikenow.com" "/uploads/spike_ad.png" >}}
-
 ## What Is Superhuman?
 
 Superhuman is an email app that promises to be the fastest email experience ever made. But it comes at a steep cost: it'll set you back $30/month. And the company isn't letting everyone use it yet, the waitlist is over 275,000 people as of February 2020.
