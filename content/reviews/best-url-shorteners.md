@@ -31,7 +31,7 @@ Rebrandly let's you add 5 custom domains, 500 branded links, and track 5,000 lin
 
 That is miles ahead other options like bit.ly and TinyURL.
 
-I personally use Rebrandly on my blog for that exact reason. I'm able to create many shortened URLs to use for affiliate links or any URL I want to track. 
+I personally use Rebrandly on my blog for that exact reason. Increasing affiliater revenue to my blog was one of my [professional goals](https://nicklafferty.com/blog/professional-goals/) I'm able to create many shortened URLs to use for affiliate links or any URL I want to track. 
 
 I'm tracking 20 different URLs for free with Rebrandly and it's been super easy to use and setup. 
 
@@ -60,7 +60,9 @@ They're smaller than bit.ly but that's an advantage -- they have the best free l
 
 When I was researching ways to create custom short URLs for free I wanted to use a custom domain. That way my short links were branded to my website instead of white-labeled. I'm distrustful of many short URLs because you never know where they'll take you.
 
-In fact, many email providers like Gmail and Yahoo are also distrustful of bit.ly links and could mark your emails as spam if those links are included. 
+In fact, many email providers like Gmail and Yahoo are also distrustful of bit.ly links and could mark your emails as spam if those links are included.
+
+If you're sending bulk emails check out my [Mailgun review](https://nicklafferty.com/reviews/mailgun) to get an insiders look on how email companies operate.
 
 Short URLs have a place and in my opinion that place is in social media posts, where you're often limited to a specific number of characters, and for tracking outbound links on a blog.
 
