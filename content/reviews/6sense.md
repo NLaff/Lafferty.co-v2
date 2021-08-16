@@ -19,18 +19,18 @@ alt = "6sense Review"
 
 It's one of many ABM platforms on the market today, but it was the first to market with an artificial intelligence powered predictive model. 
 
-I went through an extensive vendor review process with Mailgun, the company I currently work for. I'll write about what vendors I reviewed and why we ultimately purchased 6sense.
+I went through an extensive vendor review process with Mailgun, the company I used to work for. I'll write about what vendors I reviewed and why we ultimately purchased 6sense.
 
 But first..
 
 ## Why should you trust me?
-I'm a professional growth marketer with a background in SaaS and lead generation. I currently work for Mailgun by Pathwire, an email service provider that sends over 20 billion emails/month for brands like Lyft, Substack, Patreon, and more. 
+I'm a professional growth marketer with a background in SaaS and lead generation. I currently work for Loom, a workplace video messaging platform. Prior to Loom I worked at Mailgun by Pathwire, an email service provider that sends over 20 billion emails/month for brands like Lyft, Substack, Patreon, and more. 
 
 I help grow the amount of visitors to our website each month, how many users sign-up for our product, and how many of them submit leads to talk to sales. 
 
 My job is measured by growing web traffic and total revenue. 6sense, and other ABM platforms, can help achieve that goal. 
 
-This review will contain real screenshots from my 6sense account. 
+This review will contain screenshots from a real 6sense account. 
 
 ## Disclosure
 There are no affiliate links on this blog post. I am not compensated by 6sense for this review.
