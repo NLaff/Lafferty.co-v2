@@ -12,7 +12,6 @@ image = "/uploads/freenotiontemplates.png"
 alt = "Free Notion Templates"
 
 +++
-{{< ad "https://www.monday.com" "/uploads/monday_ad.jpg" >}}
 
 The [Notion template gallery](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) is a great repository for pre-built, beautiful templates, but I wanted to curate a list of free Notion templates that inspire me.
 
