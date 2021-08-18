@@ -18,7 +18,7 @@ Here are the most common topics folks like you contact me about:
 * You want to guest post on my blog 
 * You want to sponsor one of my blog posts (typically with a banner that links out to your website, this costs money)
 * You try to sell me wildly uninteresting SEO and link building services
-* You need help with your Google Ads campaigns (more info on my [consulting](/consulting) page)
+* You need help with your Google Ads campaigns (more info on my [consulting](/consulting/) page)
 * You want to form a strategic alliance to take over the galaxy
 
 Ok, maybe that last one isn't common. Maybe it hasn't happened at all. But you could be the first! 

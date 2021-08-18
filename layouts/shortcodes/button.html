@@ -1,1 +1,5 @@
+{{ if .Page.Params.affiliate }}
+<a class="button blue" href="{{ .Get 0 }}" target="_blank" rel="sponsored" style="display:inline-block; margin-bottom:1em; ">{{ .Get 1 }}</a>
+{{ else }}
 <a class="button blue" href="{{ .Get 0 }}" target="_blank" style="display:inline-block; margin-bottom:1em; ">{{ .Get 1 }}</a>
+{{ end }}
