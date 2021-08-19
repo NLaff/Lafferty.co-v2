@@ -2,7 +2,7 @@
 date = "2021-07-18"
 title = "The Freaking Best Guacamole Recipe Ever"
 tags = ["recipe", "guacamole", "avocado", "spicy"]
-description = "Why did this break"
+description = "Sharing my secret guacamole recipe that's been battle tested for years."
 draft = false
 layout = "recipe"
 [cover]
