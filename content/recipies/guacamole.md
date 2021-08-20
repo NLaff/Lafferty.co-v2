@@ -1,8 +1,11 @@
 +++
 date = "2021-07-18"
-title = "The Freaking Best Guacamole Recipe Ever"
+title = "The World's Best Guacamole Recipe"
 tags = ["recipe", "guacamole", "avocado", "spicy"]
 description = "Sharing my secret guacamole recipe that's been battle tested for years."
+image1x1 = "/uploads/1x1/guacamole.jpg"
+image4x3 = "/uploads/4x3/guacamole.jpg"
+image16x9 = "/uploads/16x9/guacamole.jpg"
 draft = false
 layout = "recipe"
 [cover]
