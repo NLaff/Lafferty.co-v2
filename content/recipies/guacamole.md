@@ -23,7 +23,7 @@ category = "Snack"
 cuisine = "Mexican"
 calories = 250
 ingredients = ["3 avocados", "1 tomato", "1 handful of cilantro, chopped", "3-5 green onions", "1 jalapeno (optional)", "1/2 lime, juiced", "2 teaspoons salt", "1 tablespoon sriracha"] 
-instructions = ["Peel and pit the avocados. Dice tomatoes, green onion, and jalapeno, optionally remove seeds for less heat. Chop cilantro.", "In a bowl, add avocado and other ingredients. Add salt, lime juice, and sriracha. Mash to desired consistency with a fork", "Serve immediately or cover with plastic wrap for 1 hour."]
+instructions = ["Peel and pit the avocados. Dice tomatoes, green onion, and jalapeno, optionally remove seeds for less heat. Chop cilantro.", "In a bowl, add avocado and other ingredients. Add salt, lime juice, and sriracha. Mash to desired consistency with a fork.", "Serve immediately or cover with plastic wrap for 1 hour."]
 
 +++
 
@@ -59,4 +59,4 @@ I prefer using tomatoes on the vine. I've found they have the best flavor of wha
 
 I don't add a ton of salt to my guacamole because the chips are usually **very salty**. If you're not serving guac with chips then I recommend adding more salt to taste.
 
-My favorite thing to put guacamole on is chicken fajitas. It makes for a quick, easy, and filling weeknight meal that you can have ready in less than an hour.
+My favorite thing to put guacamole on is [chicken fajitas](/recipies/chicken-fajitas/). It makes for a quick, easy, and filling weeknight meal that you can have ready in less than an hour.
