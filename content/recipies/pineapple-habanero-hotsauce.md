@@ -1,6 +1,6 @@
 +++
 date = "2021-07-21"
-title = "Pineapple-Habanero Hot Sauce Recipe"
+title = "Pineapple Habanero Hot Sauce Recipe"
 tags = ["recipe", "hot sauce", "habanero", "pineapple"]
 description = "A fast and super delicious hot sauce recipe using grilled pineapple, habanero, and garlic. "
 image1x1 = "/uploads/1x1/hotsauce.jpg"
