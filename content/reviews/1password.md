@@ -6,7 +6,7 @@ title = "6Sense Review | ABM Platform Comparisons [2021 Review]"
 showtoc = true
 tocopen = true
 affiliate = false
-draft = false
+draft = true
 [cover]
 image = "/uploads/6sense_banner.png"
 alt = "6sense Review"

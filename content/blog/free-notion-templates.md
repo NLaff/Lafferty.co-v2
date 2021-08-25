@@ -7,11 +7,14 @@ lastmod = "2021-05-12"
 showtoc = true
 tocopen = false
 draft = false
+affiliate = true
 [cover]
 image = "/uploads/freenotiontemplates.png"
 alt = "Free Notion Templates"
 
 +++
+
+{{< ad_header "https://click.nicklafferty.com/monday" "/ads/monday_970_a.png" >}}
 
 The [Notion template gallery](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) is a great repository for pre-built, beautiful templates, but I wanted to curate a list of free Notion templates that inspire me.
 
@@ -59,6 +62,8 @@ Make sure to check out my list of the [best productivity tools of 2021](https://
 **Author:** Katrina D'Urzo
 
 {{< button "https://www.notion.so/home-84b83be1e86d4933bdf1a8daec1e5d27" "Download Link" >}}
+
+{{< ad_header "https://click.nicklafferty.com/monday" "/ads/monday_970_b.png" >}}
 
 ## Notion Productivity Templates
 
@@ -114,6 +119,8 @@ Make sure to check out my list of the [best productivity tools of 2021](https://
 **Author:** [Zoe Chew](https://twitter.com/whizzzoe)
 
 {{< button "https://www.notion.so/Portfolio-Tracker-2-0-707ff5ec560149cb885345290c0f3608" "Download Link" >}}
+
+{{< ad_header "https://click.nicklafferty.com/monday" "/ads/monday_970_b.png" >}}
 
 
 ## Notion Personal Templates
@@ -232,3 +239,5 @@ Make sure to check out my list of the [best productivity tools of 2021](https://
 **Author:** [Red Gregory](https://twitter.com/redgregory1)
 
 {{< button "https://www.notion.so/00fa657790b7431ca7736d6c50596eb5?v=4887b0c4e1c84f6983e36606b7c9ff74" "Download Link" >}}
+
+{{< ad_header "https://click.nicklafferty.com/monday" "/ads/monday_970_a.png" >}}
