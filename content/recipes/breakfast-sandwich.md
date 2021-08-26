@@ -24,12 +24,12 @@ category = "Breakfast"
 cuisine = "American"
 calories = 320
 ingredients = ["3 eggs", "3 slices of bacon", "2 english muffins", "1/2 cup sharp cheddar cheese", "1/2 tablespoon butter", "Tabasco (optional)"] 
-instructions = ["Slice the english muffins in half and toast for 2 minutes. Grate the cheese. Scramble eggs in a small bowl. ", "Cook bacon on stove, or if using microwave bacon microwave according to instructions.", "Set Instant Pot to Sear/Sautee on medium high. Add butter to coat the bottom. Pour in eggs and let cook until the bottom sets, about 1 minute. Using a spatula cut eggs in half, flip, and finish cooking for about 30 seconds.", "Remove eggs from Instant Pot and build your sandwiches.", "Switch Instant Pot to broil and place completed sandwiches inside. Broil for 2 minutes or until cheese is melted.", "Remove, add optional hot sauce, and serve"]
+instructions = ["Slice the english muffins in half and toast for 2 minutes. Grate the cheese. Scramble eggs in a small bowl. ", "Cook bacon on stove, or if using microwave bacon cook according to instructions.", "Set Instant Pot to Sear/Sautee on medium high. Add butter to coat the bottom. Pour in eggs and let cook until the bottom sets, about 1 minute. Using a spatula cut eggs in half, flip, and finish cooking for about 30 seconds.", "Remove eggs from Instant Pot and place onto english muffins. Place bacon then cheese on top.", "Switch Instant Pot to broil and place sandwiches inside. Broil for 2 minutes or until cheese is melted.", "Remove, add optional hot sauce, and serve"]
 
 +++
 ![Breakfast Sandwich Recipe](/uploads/breakfast-sandwiches.jpg)
 
-My wife [Cody](https://craftycody.com/) wanted to call this the one-pot breakfast sandwich, but I thought Instant Pot breakfast sandwich was more accurate.
+My wife [Cody](https://craftycody.com/) thought of this recipe herself and it turned out great!
 
 This also totally works in a Ninja Foodie, and in fact that's what we used. The nice thing about both is that you can sautee and broil in the same pot which makes this recipe super fast and easy.
 
