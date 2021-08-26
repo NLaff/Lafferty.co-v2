@@ -29,7 +29,7 @@ instructions = ["Slice the english muffins in half and toast for 2 minutes. Grat
 +++
 ![Breakfast Sandwich Recipe](/uploads/breakfast-sandwiches.jpg)
 
-My wife [Cody](https://craftycody.com/) thought of this recipe herself and it turned out great!
+My wife [Cody](https://craftycody.com/) came up with this one and it's truly a one pot breakfast sandwich recipe. 
 
 This also totally works in a Ninja Foodie, and in fact that's what we used. The nice thing about both is that you can sautee and broil in the same pot which makes this recipe super fast and easy.
 
