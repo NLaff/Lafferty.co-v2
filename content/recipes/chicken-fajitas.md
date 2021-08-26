@@ -32,7 +32,7 @@ I've tried all different ways of cooking chicken, but for an easy weeknight meal
 
 ![Oven Baked Chicken Fajitas](/uploads/oven_baked_chicken.jpg)
 
-While the chicken cooks you have plenty of time to prep the rest of the meal. For me having [fresh guacamole](/recipies/guacamole/) is absolutely key to this dish, as are fresh tortillas. 
+While the chicken cooks you have plenty of time to prep the rest of the meal. For me having [fresh guacamole](/recipes/guacamole/) is absolutely key to this dish, as are fresh tortillas. 
 
 We get tortillas from our local grocery store(shoutout H.E.B.!) that makes them fresh in-store every day. Good tortillas can make or break any recipe and I'd highly encourage you to find fresh ones instead of using Mission tortillas. It's definitely worth it. 
 
@@ -42,6 +42,6 @@ If I'm being honest this recipe is basically a conduit to have chewy tortillas t
 
 After working all day I don't want to spend hours cooking a meal, I want something fast and easy, and this chicken fajita recipe is the perfect weeknight dinner. 
 
-For a really spicy fajita add-on try my [pineapple habanero hot sauce](/recipies/pineapple-habanero-hotsauce/).
+For a really spicy fajita add-on try my [pineapple habanero hot sauce](/recipes/pineapple-habanero-hotsauce/).
 
 ![Chicken Fajita Guacamole](/uploads/chicken_fajita_guacamole.jpg)

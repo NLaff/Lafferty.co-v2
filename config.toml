@@ -41,9 +41,9 @@ pygmentsUseClasses = true
 		weight = 10
 
 	 [[menu.main]]
-		identifier = "recipies"
-		name = "recipies"
-		url = "/recipies/"
+		identifier = "recipes"
+		name = "recipes"
+		url = "/recipes/"
 		weight = 15
 
 

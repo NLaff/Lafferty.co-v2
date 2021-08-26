@@ -51,7 +51,7 @@ We also use store bought english muffins because ain't no one got time to make t
 
 ![Breakfast Sandwich Cheese](/uploads/breakfast-sandwich-cheese.jpg)
 
-And that's pretty much it! Top with some optional Tabasco sauce for a little vinegary kick, or add some [homemade habanero hot sauce](/recipies/pineapple-habanero-hotsauce/) to really spice it up. This recipe is a really fast way to make delicious bacon egg and cheese breakfast sandwiches.
+And that's pretty much it! Top with some optional Tabasco sauce for a little vinegary kick, or add some [homemade habanero hot sauce](/recipes/pineapple-habanero-hotsauce/) to really spice it up. This recipe is a really fast way to make delicious bacon egg and cheese breakfast sandwiches.
 
 Give it a try! 
 

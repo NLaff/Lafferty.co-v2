@@ -59,4 +59,4 @@ I prefer using tomatoes on the vine. I've found they have the best flavor of wha
 
 I don't add a ton of salt to my guacamole because the chips are usually **very salty**. If you're not serving guac with chips then I recommend adding more salt to taste.
 
-My favorite thing to put guacamole on is [chicken fajitas](/recipies/chicken-fajitas/). It makes for a quick, easy, and filling weeknight meal that you can have ready in less than an hour.
+My favorite thing to put guacamole on is [chicken fajitas](/recipes/chicken-fajitas/). It makes for a quick, easy, and filling weeknight meal that you can have ready in less than an hour.

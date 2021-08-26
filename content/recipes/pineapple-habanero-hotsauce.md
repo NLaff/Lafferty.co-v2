@@ -51,7 +51,7 @@ Then we threw it in the blender, added our chopped habaneros, garlic, cilantro, 
 
 The only downside of grilling the pineapple is the hotsauce comes out warm. It's still comes out really tasty but warm hot sauce can be kind of off putting. 
 
-We put this pineapple habanero hot sauce on everything: scrambled eggs, [breakfast sandwiches](/recipies/breakfast-sandwich/), breakfast tacos, [chicken fajitas](/recipies/chicken-fajitas/), and Asian-style cabbage slaw.
+We put this pineapple habanero hot sauce on everything: scrambled eggs, [breakfast sandwiches](/recipes/breakfast-sandwich/), breakfast tacos, [chicken fajitas](/recipes/chicken-fajitas/), and Asian-style cabbage slaw.
 
 Honestly you could put it on anything that needs a sweet and spicy kick!
 

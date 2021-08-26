@@ -1,2 +1,7 @@
 # Redirects from what the browser requests to what we serve
 https://nicklafferty.com/blog/how-to-quit-playing-video-games-for-good/ https://nicklafferty.com/blog/why-im-quitting-video-games-for-an-entire-year/ 301!
+/recipies/ /recipes/ 301!
+/recipies/breakfast-sandwich /recipes/breakfast-sandwich 301!
+/recipies/guacamole /recipes/guacamole 301!
+/recipies/chicken-fajitas /recipes/chicken-fajitas 301!
+/recipies/pineapple-habanero-hotsauce /recipes/pineapple-habanero-hotsauce 301!
